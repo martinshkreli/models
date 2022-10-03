@@ -1,0 +1,747 @@
+1: Krafft GA, Jerecic J, Siemers E, Cline EN. ACU193: An Immunotherapeutic
+Poised to Test the Amyloid β Oligomer Hypothesis of Alzheimer's Disease. Front
+Neurosci. 2022 Apr 26;16:848215. doi: 10.3389/fnins.2022.848215. PMID: 35557606;
+PMCID: PMC9088393.
+
+2: Barakos J, Purcell D, Suhy J, Chalkias S, Burkett P, Marsica Grassi C,
+Castrillo-Viguera C, Rubino I, Vijverberg E. Detection and Management of
+Amyloid-Related Imaging Abnormalities in Patients with Alzheimer's Disease
+Treated with Anti-Amyloid Beta Therapy. J Prev Alzheimers Dis.
+2022;9(2):211-220. doi: 10.14283/jpad.2022.21. PMID: 35542992.
+
+3: Shi M, Chu F, Zhu F, Zhu J. Impact of Anti-amyloid-β Monoclonal Antibodies on
+the Pathology and Clinical Profile of Alzheimer's Disease: A Focus on Aducanumab
+and Lecanemab. Front Aging Neurosci. 2022 Apr 12;14:870517. doi:
+10.3389/fnagi.2022.870517. PMID: 35493943; PMCID: PMC9039457.
+
+4: Retout S, Gieschke R, Serafin D, Weber C, Frey N, Hofmann C. Disease Modeling
+and Model-Based Meta-Analyses to Define a New Direction for a Phase III Program
+of Gantenerumab in Alzheimer's Disease. Clin Pharmacol Ther. 2022
+Apr;111(4):857-866. doi: 10.1002/cpt.2535. Epub 2022 Feb 28. PMID: 35100444;
+PMCID: PMC9313867.
+
+5: Madrasi K, Das R, Mohmmadabdul H, Lin L, Hyman BT, Lauffenburger DA, Albers
+MW, Rissman RA, Burke JM, Apgar JF, Wille L, Gruenbaum L, Hua F. Systematic in
+silico analysis of clinically tested drugs for reducing amyloid-beta plaque
+accumulation in Alzheimer's disease. Alzheimers Dement. 2021
+Sep;17(9):1487-1498. doi: 10.1002/alz.12312. Epub 2021 May 2. PMID: 33938131;
+PMCID: PMC8478725.
+
+6: Avgerinos KI, Ferrucci L, Kapogiannis D. Effects of monoclonal antibodies
+against amyloid-β on clinical and biomarker outcomes and adverse event risks: A
+systematic review and meta-analysis of phase III RCTs in Alzheimer's disease.
+Ageing Res Rev. 2021 Jul;68:101339. doi: 10.1016/j.arr.2021.101339. Epub 2021
+Apr 5. PMID: 33831607; PMCID: PMC8161699.
+
+7: Tian Hui Kwan A, Arfaie S, Therriault J, Rosa-Neto P, Gauthier S. Lessons
+Learnt from the Second Generation of Anti-Amyloid Monoclonal Antibodies Clinical
+Trials. Dement Geriatr Cogn Disord. 2020;49(4):334-348. doi: 10.1159/000511506.
+Epub 2020 Dec 15. PMID: 33321511.
+
+8: Gnoth K, Piechotta A, Kleinschmidt M, Konrath S, Schenk M, Taudte N, Ramsbeck
+D, Rieckmann V, Geissler S, Eichentopf R, Barendrecht S, Hartlage-Rübsamen M,
+Demuth HU, Roßner S, Cynis H, Rahfeld JU, Schilling S. Targeting isoaspartate-
+modified Aβ rescues behavioral deficits in transgenic mice with Alzheimer's
+disease-like pathology. Alzheimers Res Ther. 2020 Nov 14;12(1):149. doi:
+10.1186/s13195-020-00719-x. PMID: 33189132; PMCID: PMC7666770.
+
+9: Behl T, Kaur I, Fratila O, Brata R, Bungau S. Exploring the Potential of
+Therapeutic Agents Targeted towards Mitigating the Events Associated with
+Amyloid-β Cascade in Alzheimer's Disease. Int J Mol Sci. 2020 Oct 9;21(20):7443.
+doi: 10.3390/ijms21207443. PMID: 33050199; PMCID: PMC7589257.
+
+10: Lu L, Zheng X, Wang S, Tang C, Zhang Y, Yao G, Zeng J, Ge S, Wen H, Xu M,
+Guyatt G, Xu N. Anti-Aβ agents for mild to moderate Alzheimer's disease:
+systematic review and meta-analysis. J Neurol Neurosurg Psychiatry. 2020
+Dec;91(12):1316-1324. doi: 10.1136/jnnp-2020-323497. Epub 2020 Oct 12. PMID:
+33046560.
+
+11: Linse S, Scheidt T, Bernfur K, Vendruscolo M, Dobson CM, Cohen SIA, Sileikis
+E, Lundqvist M, Qian F, O'Malley T, Bussiere T, Weinreb PH, Xu CK, Meisl G,
+Devenish SRA, Knowles TPJ, Hansson O. Kinetic fingerprints differentiate the
+mechanisms of action of anti-Aβ antibodies. Nat Struct Mol Biol. 2020
+Dec;27(12):1125-1133. doi: 10.1038/s41594-020-0505-6. Epub 2020 Sep 28. PMID:
+32989305.
+
+12: Sehlin D, Stocki P, Gustavsson T, Hultqvist G, Walsh FS, Rutkowski JL,
+Syvänen S. Brain delivery of biologics using a cross-species reactive
+transferrin receptor 1 VNAR shuttle. FASEB J. 2020 Oct;34(10):13272-13283. doi:
+10.1096/fj.202000610RR. Epub 2020 Aug 11. PMID: 32779267.
+
+13: Plotkin SS, Cashman NR. Passive immunotherapies targeting Aβ and tau in
+Alzheimer's disease. Neurobiol Dis. 2020 Oct;144:105010. doi:
+10.1016/j.nbd.2020.105010. Epub 2020 Jul 16. PMID: 32682954; PMCID: PMC7365083.
+
+14: Zampar S, Klafki HW, Sritharen K, Bayer TA, Wiltfang J, Rostagno A, Ghiso J,
+Miles LA, Wirths O. N-terminal heterogeneity of parenchymal and vascular
+amyloid-β deposits in Alzheimer's disease. Neuropathol Appl Neurobiol. 2020
+Dec;46(7):673-685. doi: 10.1111/nan.12637. Epub 2020 Jun 29. PMID: 32497293;
+PMCID: PMC8082844.
+
+15: Güell-Bosch J, Lope-Piedrafita S, Esquerda-Canals G, Montoliu-Gaya L,
+Villegas S. Progression of Alzheimer's disease and effect of scFv-h3D6
+immunotherapy in the 3xTg-AD mouse model: An in vivo longitudinal study using
+Magnetic Resonance Imaging and Spectroscopy. NMR Biomed. 2020 May;33(5):e4263.
+doi: 10.1002/nbm.4263. Epub 2020 Feb 17. PMID: 32067292.
+
+16: Loureiro JC, Pais MV, Stella F, Radanovic M, Teixeira AL, Forlenza OV, de
+Souza LC. Passive antiamyloid immunotherapy for Alzheimer's disease. Curr Opin
+Psychiatry. 2020 May;33(3):284-291. doi: 10.1097/YCO.0000000000000587. PMID:
+32040044.
+
+17: Agrawal N, Skelton AA. Structure and Function of Alzheimer's Amyloid βeta
+Proteins from Monomer to Fibrils: A Mini Review. Protein J. 2019
+Aug;38(4):425-434. doi: 10.1007/s10930-019-09854-3. PMID: 31325011.
+
+18: Esquerda-Canals G, Roda AR, Martí-Clúa J, Montoliu-Gaya L, Rivera-Hernández
+G, Villegas S. Treatment with scFv-h3D6 Prevented Neuronal Loss and Improved
+Spatial Memory in Young 3xTg-AD Mice by Reducing the Intracellular Amyloid-β
+Burden. J Alzheimers Dis. 2019;70(4):1069-1091. doi: 10.3233/JAD-190484. PMID:
+31306135.
+
+19: Esquerda-Canals G, Martí-Clúa J, Villegas S. Pharmacokinetic parameters and
+mechanism of action of an efficient anti-Aβ single chain antibody fragment. PLoS
+One. 2019 May 31;14(5):e0217793. doi: 10.1371/journal.pone.0217793. PMID:
+31150495; PMCID: PMC6544282.
+
+20: Hodgson J. Thousands of amyloids may foil Alzheimer's drugs. Nat Biotechnol.
+2019 Feb;37(2):114-115. doi: 10.1038/s41587-019-0029-y. PMID: 30718876.
+
+21: Pradier L, Blanchard-Brégeon V, Bohme A, Debeir T, Menager J, Benoit P,
+Barneoud P, Taupin V, Bertrand P, Dugay P, Cameron B, Shi Y, Naimi S, Duchesne
+M, Gagnaire M, Weeden T, Travaline T, Reczek D, Khiroug L, Slaoui M, Brunel P,
+Fukuyama H, Ravetch J, Canton T, Cohen C. SAR228810: an antibody for
+protofibrillar amyloid β peptide designed to reduce the risk of amyloid-related
+imaging abnormalities (ARIA). Alzheimers Res Ther. 2018 Nov 28;10(1):117. doi:
+10.1186/s13195-018-0447-y. PMID: 30486882; PMCID: PMC6264593.
+
+22: Brashear HR, Ketter N, Bogert J, Di J, Salloway SP, Sperling R. Clinical
+Evaluation of Amyloid-Related Imaging Abnormalities in Bapineuzumab Phase III
+Studies. J Alzheimers Dis. 2018;66(4):1409-1424. doi: 10.3233/JAD-180675. PMID:
+30412493.
+
+23: Hwang SS, Chan H, Sorci M, Van Deventer J, Wittrup D, Belfort G, Walt D.
+Detection of amyloid β oligomers toward early diagnosis of Alzheimer's disease.
+Anal Biochem. 2019 Feb 1;566:40-45. doi: 10.1016/j.ab.2018.09.011. Epub 2018 Sep
+26. PMID: 30267709.
+
+24: Gustafsson S, Gustavsson T, Roshanbin S, Hultqvist G, Hammarlund-Udenaes M,
+Sehlin D, Syvänen S. Blood-brain barrier integrity in a mouse model of
+Alzheimer's disease with or without acute 3D6 immunotherapy. Neuropharmacology.
+2018 Dec;143:1-9. doi: 10.1016/j.neuropharm.2018.09.001. Epub 2018 Sep 7. PMID:
+30201212.
+
+25: Salloway S, Marshall GA, Lu M, Brashear HR. Long-Term Safety and Efficacy of
+Bapineuzumab in Patients with Mild-to-Moderate Alzheimer's Disease: A Phase 2,
+Open-Label Extension Study. Curr Alzheimer Res. 2018;15(13):1231-1243. doi:
+10.2174/1567205015666180821114813. PMID: 30129411.
+
+26: Montoliu-Gaya L, Güell-Bosch J, Esquerda-Canals G, Roda AR, Serra-Mir G,
+Lope-Piedrafita S, Sánchez-Quesada JL, Villegas S. Differential effects of apoE
+and apoJ mimetic peptides on the action of an anti-Aβ scFv in 3xTg-AD mice.
+Biochem Pharmacol. 2018 Sep;155:380-392. doi: 10.1016/j.bcp.2018.07.012. Epub
+2018 Jul 17. PMID: 30026023.
+
+27: Jin M, O'Nuallain B, Hong W, Boyd J, Lagomarsino VN, O'Malley TT, Liu W,
+Vanderburg CR, Frosch MP, Young-Pearse T, Selkoe DJ, Walsh DM. An in vitro
+paradigm to assess potential anti-Aβ antibodies for Alzheimer's disease. Nat
+Commun. 2018 Jul 11;9(1):2676. doi: 10.1038/s41467-018-05068-w. PMID: 29992960;
+PMCID: PMC6041266.
+
+28: Lu M, Brashear HR. Pharmacokinetics, Pharmacodynamics, and Safety of
+Subcutaneous Bapineuzumab: A Single-Ascending-Dose Study in Patients With Mild
+to Moderate Alzheimer Disease. Clin Pharmacol Drug Dev. 2019 Apr;8(3):326-335.
+doi: 10.1002/cpdd.584. Epub 2018 Jun 19. PMID: 29920980.
+
+29: Salloway SP, Sperling R, Fox NC, Sabbagh MN, Honig LS, Porsteinsson AP,
+Rofael H, Ketter N, Wang D, Liu E, Carr S, Black RS, Brashear HR. Long-Term
+Follow Up of Patients with Mild-to-Moderate Alzheimer's Disease Treated with
+Bapineuzumab in a Phase III, Open-Label, Extension Study. J Alzheimers Dis.
+2018;64(3):689-707. doi: 10.3233/JAD-171157. PMID: 29914022.
+
+30: Arndt JW, Qian F, Smith BA, Quan C, Kilambi KP, Bush MW, Walz T, Pepinsky
+RB, Bussière T, Hamann S, Cameron TO, Weinreb PH. Structural and kinetic basis
+for the selectivity of aducanumab for aggregated forms of amyloid-β. Sci Rep.
+2018 Apr 23;8(1):6412. doi: 10.1038/s41598-018-24501-0. PMID: 29686315; PMCID:
+PMC5913127.
+
+31: Cehlar O, Skrabana R, Revajova V, Novak M. Structural aspects of Alzheimer's
+disease immunotherapy targeted against amyloid-beta peptide. Bratisl Lek Listy.
+2018;119(4):201-204. doi: 10.4149/BLL_2018_037. PMID: 29663816.
+
+32: Montoliu-Gaya L, Mulder SD, Herrebout MAC, Baayen JC, Villegas S, Veerhuis
+R. Aβ-oligomer uptake and the resulting inflammatory response in adult human
+astrocytes are precluded by an anti-Aβ single chain variable fragment in
+combination with an apoE mimetic peptide. Mol Cell Neurosci. 2018 Jun;89:49-59.
+doi: 10.1016/j.mcn.2018.03.015. Epub 2018 Apr 3. PMID: 29625180.
+
+33: Knopman DS. Sifting through a failed Alzheimer trial: What biomarkers tell
+us about what happened. Neurology. 2018 Mar 6;90(10):447-448. doi:
+10.1212/WNL.0000000000005073. Epub 2018 Feb 2. PMID: 29429973.
+
+34: Liu E, Wang D, Sperling R, Salloway S, Fox NC, Blennow K, Scheltens P,
+Schmidt ME, Streffer J, Novak G, Einstein S, Booth K, Ketter N, Brashear HR;
+ELN115727-301/302 Investigator Group. Biomarker pattern of ARIA-E participants
+in phase 3 randomized clinical trials with bapineuzumab. Neurology. 2018 Mar
+6;90(10):e877-e886. doi: 10.1212/WNL.0000000000005060. Epub 2018 Feb 2. PMID:
+29429971.
+
+35: Mo JJ, Li JY, Yang Z, Liu Z, Feng JS. Efficacy and safety of anti-
+amyloid-<i>β</i> immunotherapy for Alzheimer's disease: a systematic review and
+network meta-analysis. Ann Clin Transl Neurol. 2017 Oct 30;4(12):931-942. doi:
+10.1002/acn3.469. PMID: 29296624; PMCID: PMC5740249.
+
+36: Drews A, De S, Flagmeier P, Wirthensohn DC, Chen WH, Whiten DR, Rodrigues M,
+Vincke C, Muyldermans S, Paterson RW, Slattery CF, Fox NC, Schott JM, Zetterberg
+H, Dobson CM, Gandhi S, Klenerman D. Inhibiting the Ca<sup>2+</sup> Influx
+Induced by Human CSF. Cell Rep. 2017 Dec 12;21(11):3310-3316. doi:
+10.1016/j.celrep.2017.11.057. PMID: 29241555; PMCID: PMC5745229.
+
+37: Gold M. Phase II clinical trials of anti-amyloid β antibodies: When is
+enough, enough? Alzheimers Dement (N Y). 2017 May 17;3(3):402-409. doi:
+10.1016/j.trci.2017.04.005. PMID: 29067346; PMCID: PMC5651424.
+
+38: Martens RM, Bechten A, Ingala S, van Schijndel RA, Machado VB, de Jong MC,
+Sanchez E, Purcell D, Arrighi MH, Brashear RH, Wattjes MP, Barkhof F. The value
+of subtraction MRI in detection of amyloid-related imaging abnormalities with
+oedema or effusion in Alzheimer's patients: An interobserver study. Eur Radiol.
+2018 Mar;28(3):1215-1226. doi: 10.1007/s00330-017-5022-6. Epub 2017 Sep 27.
+PMID: 28956123; PMCID: PMC5811582.
+
+39: Villarreal S, Zhao F, Hyde LA, Holder D, Forest T, Sondey M, Chen X, Sur C,
+Parker EM, Kennedy ME. Chronic Verubecestat Treatment Suppresses Amyloid
+Accumulation in Advanced Aged Tg2576-AβPPswe Mice Without Inducing
+Microhemorrhage. J Alzheimers Dis. 2017;59(4):1393-1413. doi:
+10.3233/JAD-170056. PMID: 28800329; PMCID: PMC5611839.
+
+40: Montoliu-Gaya L, Murciano-Calles J, Martinez JC, Villegas S. Towards the
+improvement in stability of an anti-Aβ single-chain variable fragment,
+scFv-h3D6, as a way to enhance its therapeutic potential. Amyloid. 2017
+Sep;24(3):167-175. doi: 10.1080/13506129.2017.1348347. Epub 2017 Jul 12. PMID:
+28699800.
+
+41: Abushouk AI, Elmaraezy A, Aglan A, Salama R, Fouda S, Fouda R, AlSafadi AM.
+Bapineuzumab for mild to moderate Alzheimer's disease: a meta-analysis of
+randomized controlled trials. BMC Neurol. 2017 Apr 4;17(1):66. doi:
+10.1186/s12883-017-0850-1. PMID: 28376794; PMCID: PMC5381133.
+
+42: Ketter N, Brashear HR, Bogert J, Di J, Miaux Y, Gass A, Purcell DD, Barkhof
+F, Arrighi HM. Central Review of Amyloid-Related Imaging Abnormalities in Two
+Phase III Clinical Trials of Bapineuzumab in Mild-To-Moderate Alzheimer's
+Disease Patients. J Alzheimers Dis. 2017;57(2):557-573. doi: 10.3233/JAD-160216.
+PMID: 28269765.
+
+43: Brody M, Liu E, Di J, Lu M, Margolin RA, Werth JL, Booth K, Shadman A,
+Brashear HR, Novak G. A Phase II, Randomized, Double-Blind, Placebo-Controlled
+Study of Safety, Pharmacokinetics, and Biomarker Results of Subcutaneous
+Bapineuzumab in Patients with mild to moderate Alzheimer's disease. J Alzheimers
+Dis. 2016 Oct 18;54(4):1509-1519. doi: 10.3233/JAD-160369. PMID: 27589523.
+
+44: Ivanoiu A, Pariente J, Booth K, Lobello K, Luscan G, Hua L, Lucas P, Styren
+S, Yang L, Li D, Black RS, Brashear HR, McRae T. Long-term safety and
+tolerability of bapineuzumab in patients with Alzheimer's disease in two phase 3
+extension studies. Alzheimers Res Ther. 2016 Jun 23;8(1):24. doi:
+10.1186/s13195-016-0193-y. PMID: 27334799; PMCID: PMC4918115.
+
+45: Amanatkar HR, Papagiannopoulos B, Grossberg GT. Analysis of recent failures
+of disease modifying therapies in Alzheimer's disease suggesting a new
+methodology for future studies. Expert Rev Neurother. 2017 Jan;17(1):7-16. doi:
+10.1080/14737175.2016.1194203. Epub 2016 Jun 9. PMID: 27223100.
+
+46: Vandenberghe R, Rinne JO, Boada M, Katayama S, Scheltens P, Vellas B,
+Tuchman M, Gass A, Fiebach JB, Hill D, Lobello K, Li D, McRae T, Lucas P, Evans
+I, Booth K, Luscan G, Wyman BT, Hua L, Yang L, Brashear HR, Black RS;
+Bapineuzumab 3000 and 3001 Clinical Study Investigators. Bapineuzumab for mild
+to moderate Alzheimer's disease in two global, randomized, phase 3 trials.
+Alzheimers Res Ther. 2016 May 12;8(1):18. doi: 10.1186/s13195-016-0189-7. PMID:
+27176461; PMCID: PMC4866415.
+
+47: Russu A, Samtani MN, Xu S, Adedokun OJ, Lu M, Ito K, Corrigan B, Raje S, Liu
+E, Brashear HR, Styren S, Hu C. Biomarker Exposure-Response Analysis in Mild-To-
+Moderate Alzheimer's Disease Trials of Bapineuzumab. J Alzheimers Dis. 2016 May
+3;53(2):535-46. doi: 10.3233/JAD-151065. PMID: 27163805.
+
+48: Pohanka M. Vaccination to Alzheimer Disease. Is it a Promising Tool or a
+Blind Way? Curr Med Chem. 2016;23(14):1432-41. doi:
+10.2174/0929867323666160418114733. PMID: 27087245.
+
+49: Delnomdedieu M, Duvvuri S, Li DJ, Atassi N, Lu M, Brashear HR, Liu E, Ness
+S, Kupiec JW. First-In-Human safety and long-term exposure data for AAB-003
+(PF-05236812) and biomarkers after intravenous infusions of escalating doses in
+patients with mild to moderate Alzheimer's disease. Alzheimers Res Ther. 2016
+Mar 1;8(1):12. doi: 10.1186/s13195-016-0177-y. PMID: 26925577; PMCID:
+PMC4772335.
+
+50: Falkentoft AC, Hasselbalch SG. Immunterapi mod Alzheimers sygdom
+[Immunotherapy for Alzheimer's disease]. Ugeskr Laeger. 2016 Jan
+18;178(3):V07150588. Danish. PMID: 26815584.
+
+51: Di J, Wang D, Brashear HR, Dragalin V, Krams M. Continuous event monitoring
+via a Bayesian predictive approach. Pharm Stat. 2016 Mar-Apr;15(2):109-22. doi:
+10.1002/pst.1727. Epub 2015 Dec 8. PMID: 26643012.
+
+52: Novak G, Fox N, Clegg S, Nielsen C, Einstein S, Lu Y, Tudor IC, Gregg K, Di
+J, Collins P, Wyman BT, Yuen E, Grundman M, Brashear HR, Liu E. Changes in Brain
+Volume with Bapineuzumab in Mild to Moderate Alzheimer's Disease. J Alzheimers
+Dis. 2016;49(4):1123-34. doi: 10.3233/JAD-150448. PMID: 26639957.
+
+53: Bouter Y, Lopez Noguerola JS, Tucholla P, Crespi GA, Parker MW, Wiltfang J,
+Miles LA, Bayer TA. Abeta targets of the biosimilar antibodies of Bapineuzumab,
+Crenezumab, Solanezumab in comparison to an antibody against N‑truncated Abeta
+in sporadic Alzheimer disease cases and mouse models. Acta Neuropathol. 2015
+Nov;130(5):713-29. doi: 10.1007/s00401-015-1489-x. PMID: 26467270.
+
+54: Samtani MN, Xu SX, Russu A, Adedokun OJ, Lu M, Ito K, Corrigan B, Raje S,
+Brashear HR, Styren S, Hu C. Alzheimer's disease assessment scale-cognitive
+11-item progression model in mild-to-moderate Alzheimer's disease trials of
+bapineuzumab. Alzheimers Dement (N Y). 2015 Oct 9;1(3):157-169. doi:
+10.1016/j.trci.2015.09.001. PMID: 29854935; PMCID: PMC5975060.
+
+55: Fuller JP, Stavenhagen JB, Christensen S, Kartberg F, Glennie MJ, Teeling
+JL. Comparing the efficacy and neuroinflammatory potential of three anti-abeta
+antibodies. Acta Neuropathol. 2015 Nov;130(5):699-711. doi:
+10.1007/s00401-015-1484-2. Epub 2015 Oct 3. PMID: 26433971; PMCID: PMC4612324.
+
+56: Lacey L, Bobula J, Rüdell K, Alvir J, Leibman C. Quality of Life and Utility
+Measurement in a Large Clinical Trial Sample of Patients with Mild to Moderate
+Alzheimer's Disease: Determinants and Level of Changes Observed. Value Health.
+2015 Jul;18(5):638-45. doi: 10.1016/j.jval.2015.03.1787. Epub 2015 Apr 10. PMID:
+26297092.
+
+57: Liu E, Schmidt ME, Margolin R, Sperling R, Koeppe R, Mason NS, Klunk WE,
+Mathis CA, Salloway S, Fox NC, Hill DL, Les AS, Collins P, Gregg KM, Di J, Lu Y,
+Tudor IC, Wyman BT, Booth K, Broome S, Yuen E, Grundman M, Brashear HR;
+Bapineuzumab 301 and 302 Clinical Trial Investigators. Amyloid-β 11C-PiB-PET
+imaging results from 2 randomized bapineuzumab phase 3 AD trials. Neurology.
+2015 Aug 25;85(8):692-700. doi: 10.1212/WNL.0000000000001877. Epub 2015 Jul 24.
+PMID: 26208959; PMCID: PMC4553028.
+
+58: Xu SX, Samtani MN, Russu A, Adedokun OJ, Lu M, Ito K, Corrigan B, Raje S,
+Brashear HR, Styren S, Hu C. Alzheimer's disease progression model using
+disability assessment for dementia scores from bapineuzumab trials. Alzheimers
+Dement (N Y). 2015 Jul 21;1(2):141-149. doi: 10.1016/j.trci.2015.06.005. PMID:
+29854934; PMCID: PMC5975025.
+
+59: Arai H, Umemura K, Ichimiya Y, Iseki E, Eto K, Miyakawa K, Kirino E, Shibata
+N, Baba H, Tsuchiwata S. Safety and pharmacokinetics of bapineuzumab in a single
+ascending-dose study in Japanese patients with mild to moderate Alzheimer's
+disease. Geriatr Gerontol Int. 2016 May;16(5):644-50. doi: 10.1111/ggi.12516.
+Epub 2015 Jun 4. PMID: 26044070.
+
+60: Toyn J. What lessons can be learned from failed Alzheimer's disease trials?
+Expert Rev Clin Pharmacol. 2015 May;8(3):267-9. doi:
+10.1586/17512433.2015.1034690. Epub 2015 Apr 10. PMID: 25860157.
+
+61: Arrighi HM, Barakos J, Barkhof F, Tampieri D, Jack C Jr, Melançon D, Morris
+K, Ketter N, Liu E, Brashear HR. Amyloid-related imaging abnormalities-
+haemosiderin (ARIA-H) in patients with Alzheimer's disease treated with
+bapineuzumab: a historical, prospective secondary analysis. J Neurol Neurosurg
+Psychiatry. 2016 Jan;87(1):106-12. doi: 10.1136/jnnp-2014-309493. Epub 2015 Feb
+10. PMID: 25669746; PMCID: PMC4717448.
+
+62: Hampel H, Schneider LS, Giacobini E, Kivipelto M, Sindi S, Dubois B, Broich
+K, Nisticò R, Aisen PS, Lista S. Advances in the therapy of Alzheimer's disease:
+targeting amyloid beta and tau and perspectives for the future. Expert Rev
+Neurother. 2015 Jan;15(1):83-105. doi: 10.1586/14737175.2015.995637. Epub 2014
+Dec 24. PMID: 25537424.
+
+63: Delrieu J, Ousset PJ, Voisin T, Vellas B. Amyloid beta peptide immunotherapy
+in Alzheimer disease. Rev Neurol (Paris). 2014 Dec;170(12):739-48. doi:
+10.1016/j.neurol.2014.10.003. Epub 2014 Nov 6. PMID: 25459121.
+
+64: Villegas S. Enfermedad de Alzheimer: nuevas estrategias terapéuticas
+[Alzheimer's disease: New therapeutic strategies]. Med Clin (Barc). 2015 Jul
+20;145(2):76-83. Spanish. doi: 10.1016/j.medcli.2014.05.023. Epub 2014 Sep 20.
+PMID: 25245784.
+
+65: Schindowski C, Zimmermann J, Schindowski K. Intravenous immunoglobulin for
+the treatment of Alzheimer's disease: current evidence and considerations.
+Degener Neurol Neuromuscul Dis. 2014 Sep 5;4:121-130. doi: 10.2147/DNND.S51786.
+PMID: 32669906; PMCID: PMC7337175.
+
+66: Hu C, Adedokun O, Ito K, Raje S, Lu M. Confirmatory population
+pharmacokinetic analysis for bapineuzumab phase 3 studies in patients with mild
+to moderate Alzheimer's disease. J Clin Pharmacol. 2015 Feb;55(2):221-9. doi:
+10.1002/jcph.393. Epub 2014 Sep 16. PMID: 25187399.
+
+67: Castello MA, Jeppson JD, Soriano S. Moving beyond anti-amyloid therapy for
+the prevention and treatment of Alzheimer's disease. BMC Neurol. 2014 Sep
+2;14:169. doi: 10.1186/s12883-014-0169-0. PMID: 25179671; PMCID: PMC4236650.
+
+68: Guo S, Getsios D, Revankar N, Xu P, Thompson G, Bobula J, Lacey L, Gaudig M.
+Evaluating disease-modifying agents: a simulation framework for Alzheimer's
+disease. Pharmacoeconomics. 2014 Nov;32(11):1129-39. doi:
+10.1007/s40273-014-0203-5. PMID: 25124747.
+
+69: Panza F, Solfrizzi V, Imbimbo BP, Giannini M, Santamato A, Seripa D,
+Logroscino G. Efficacy and safety studies of gantenerumab in patients with
+Alzheimer's disease. Expert Rev Neurother. 2014 Sep;14(9):973-86. doi:
+10.1586/14737175.2014.945522. Epub 2014 Aug 1. PMID: 25081412.
+
+70: Lannfelt L, Möller C, Basun H, Osswald G, Sehlin D, Satlin A, Logovinsky V,
+Gellerfors P. Perspectives on future Alzheimer therapies: amyloid-β protofibrils
+- a new target for immunotherapy with BAN2401 in Alzheimer's disease. Alzheimers
+Res Ther. 2014 Mar 24;6(2):16. doi: 10.1186/alzrt246. PMID: 25031633; PMCID:
+PMC4054967.
+
+71: Feinberg H, Saldanha JW, Diep L, Goel A, Widom A, Veldman GM, Weis WI,
+Schenk D, Basi GS. Crystal structure reveals conservation of amyloid-β
+conformation recognized by 3D6 following humanization to bapineuzumab.
+Alzheimers Res Ther. 2014 Jun 2;6(3):31. doi: 10.1186/alzrt261. PMID: 25024748;
+PMCID: PMC4095729.
+
+72: Panza F, Solfrizzi V, Imbimbo BP, Logroscino G. Amyloid-directed monoclonal
+antibodies for the treatment of Alzheimer's disease: the point of no return?
+Expert Opin Biol Ther. 2014 Oct;14(10):1465-76. doi:
+10.1517/14712598.2014.935332. Epub 2014 Jun 30. PMID: 24981190.
+
+73: Cedernaes J, Schiöth HB, Benedict C. Efficacy of antibody-based therapies to
+treat Alzheimer's disease: just a matter of timing? Exp Gerontol. 2014
+Sep;57:104-6. doi: 10.1016/j.exger.2014.05.002. Epub 2014 May 14. PMID:
+24835192.
+
+74: Watt AD, Crespi GA, Down RA, Ascher DB, Gunn A, Perez KA, McLean CA,
+Villemagne VL, Parker MW, Barnham KJ, Miles LA. Do current therapeutic anti-Aβ
+antibodies for Alzheimer's disease engage the target? Acta Neuropathol.
+2014;127(6):803-10. doi: 10.1007/s00401-014-1290-2. Epub 2014 May 7. PMID:
+24803227.
+
+75: Wyrwich KW, Auguste P, Buchanan J, Rudell K, Lacey L, Leibman C, Symonds T,
+Brashear HR. Psychometric properties of the Dependence Scale in large randomized
+clinical trials of patients with mild and moderate Alzheimer's disease. Am J
+Alzheimers Dis Other Demen. 2014 Nov;29(7):620-9. doi: 10.1177/1533317514527336.
+Epub 2014 Apr 15. PMID: 24736801.
+
+76: Liu YH, Wang YR, Xiang Y, Zhou HD, Giunta B, Mañucat-Tan NB, Tan J, Zhou XF,
+Wang YJ. Clearance of amyloid-beta in Alzheimer's disease: shifting the action
+site from center to periphery. Mol Neurobiol. 2015 Feb;51(1):1-7. doi:
+10.1007/s12035-014-8694-9. Epub 2014 Apr 15. PMID: 24733588.
+
+77: Salloway S, Sperling R, Brashear HR. Phase 3 trials of solanezumab and
+bapineuzumab for Alzheimer's disease. N Engl J Med. 2014 Apr 10;370(15):1460.
+doi: 10.1056/NEJMc1402193. PMID: 24724181.
+
+78: de la Torre JC. Phase 3 trials of solanezumab and bapineuzumab for
+Alzheimer's disease. N Engl J Med. 2014 Apr 10;370(15):1459-60. doi:
+10.1056/NEJMc1402193. PMID: 24716689.
+
+79: Laske C. Phase 3 trials of solanezumab and bapineuzumab for Alzheimer's
+disease. N Engl J Med. 2014 Apr 10;370(15):1459. doi: 10.1056/NEJMc1402193.
+PMID: 24716688.
+
+80: Doody RS, Farlow M, Aisen PS; Alzheimer’s Disease Cooperative Study Data
+Analysis and Publication Committee. Phase 3 trials of solanezumab and
+bapineuzumab for Alzheimer's disease. N Engl J Med. 2014 Apr 10;370(15):1460.
+doi: 10.1056/NEJMc1402193. PMID: 24716687.
+
+81: Crespi GA, Ascher DB, Parker MW, Miles LA. Crystallization and preliminary
+X-ray diffraction analysis of the Fab portion of the Alzheimer's disease
+immunotherapy candidate bapineuzumab complexed with amyloid-β. Acta Crystallogr
+F Struct Biol Commun. 2014 Mar;70(Pt 3):374-7. doi: 10.1107/S2053230X14001642.
+Epub 2014 Feb 20. PMID: 24598931; PMCID: PMC3944706.
+
+82: Davtyan H, Bacon A, Petrushina I, Zagorski K, Cribbs DH, Ghochikyan A,
+Agadjanyan MG. Immunogenicity of DNA- and recombinant protein-based Alzheimer
+disease epitope vaccines. Hum Vaccin Immunother. 2014;10(5):1248-55. doi:
+10.4161/hv.27882. Epub 2014 Feb 13. PMID: 24525778; PMCID: PMC4896595.
+
+83: Panza F, Solfrizzi V, Imbimbo BP, Tortelli R, Santamato A, Logroscino G.
+Amyloid-based immunotherapy for Alzheimer's disease in the time of prevention
+trials: the way forward. Expert Rev Clin Immunol. 2014 Mar;10(3):405-19. doi:
+10.1586/1744666X.2014.883921. Epub 2014 Feb 4. PMID: 24490853.
+
+84: Karran E, Hardy J. Antiamyloid therapy for Alzheimer's disease--are we on
+the right road? N Engl J Med. 2014 Jan 23;370(4):377-8. doi:
+10.1056/NEJMe1313943. PMID: 24450897.
+
+85: Salloway S, Sperling R, Fox NC, Blennow K, Klunk W, Raskind M, Sabbagh M,
+Honig LS, Porsteinsson AP, Ferris S, Reichert M, Ketter N, Nejadnik B, Guenzler
+V, Miloslavsky M, Wang D, Lu Y, Lull J, Tudor IC, Liu E, Grundman M, Yuen E,
+Black R, Brashear HR; Bapineuzumab 301 and 302 Clinical Trial Investigators. Two
+phase 3 trials of bapineuzumab in mild-to-moderate Alzheimer's disease. N Engl J
+Med. 2014 Jan 23;370(4):322-33. doi: 10.1056/NEJMoa1304839. PMID: 24450891;
+PMCID: PMC4159618.
+
+86: Panza F, Logroscino G, Imbimbo BP, Solfrizzi V. Is there still any hope for
+amyloid-based immunotherapy for Alzheimer's disease? Curr Opin Psychiatry. 2014
+Mar;27(2):128-37. doi: 10.1097/YCO.0000000000000041. PMID: 24445401.
+
+87: Prins ND, Scheltens P. Treating Alzheimer's disease with monoclonal
+antibodies: current status and outlook for the future. Alzheimers Res Ther. 2013
+Nov 11;5(6):56. doi: 10.1186/alzrt220. PMID: 24216217; PMCID: PMC3978826.
+
+88: Li Y, Liu Y, Wang Z, Jiang Y. Clinical trials of amyloid-based immunotherapy
+for Alzheimer's disease: end of beginning or beginning of end? Expert Opin Biol
+Ther. 2013 Nov;13(11):1515-22. doi: 10.1517/14712598.2013.838555. Epub 2013 Sep
+22. PMID: 24053611.
+
+89: Caraci F, Bosco P, Leggio GM, Malaguarnera M, Drago F, Bucolo C, Salomone S.
+Clinical pharmacology of novel anti-Alzheimer disease modifying medications.
+Curr Top Med Chem. 2013;13(15):1853-63. doi: 10.2174/15680266113139990141. PMID:
+23931438.
+
+90: Moreth J, Mavoungou C, Schindowski K. Is abeta a sufficient biomarker for
+monitoring anti-abeta clinical studies? A critical review. Front Aging Neurosci.
+2013 Jul 2;5:25. doi: 10.3389/fnagi.2013.00025. PMID: 23847530; PMCID:
+PMC3698450.
+
+91: Vellas B, Carrillo MC, Sampaio C, Brashear HR, Siemers E, Hampel H,
+Schneider LS, Weiner M, Doody R, Khachaturian Z, Cedarbaum J, Grundman M, Broich
+K, Giacobini E, Dubois B, Sperling R, Wilcock GK, Fox N, Scheltens P, Touchon J,
+Hendrix S, Andrieu S, Aisen P; EU/US/CTAD Task Force Members. Designing drug
+trials for Alzheimer's disease: what we have learned from the release of the
+phase III antibody trials: a report from the EU/US/CTAD Task Force. Alzheimers
+Dement. 2013 Jul;9(4):438-44. doi: 10.1016/j.jalz.2013.03.007. PMID: 23809364.
+
+92: Carrillo MC, Vellas B. New and different approaches needed for the design
+and execution of Alzheimer's clinical trials. Alzheimers Dement. 2013
+Jul;9(4):436-7. doi: 10.1016/j.jalz.2013.03.008. PMID: 23809363.
+
+93: Moreth J, Mavoungou C, Schindowski K. Passive anti-amyloid immunotherapy in
+Alzheimer's disease: What are the most promising targets? Immun Ageing. 2013 May
+11;10(1):18. doi: 10.1186/1742-4933-10-18. PMID: 23663286; PMCID: PMC3681567.
+
+94: Khorassani F, Hilas O. Bapineuzumab, an investigational agent for
+Alzheimer's disease. P T. 2013 Feb;38(2):89-91. PMID: 23599675; PMCID:
+PMC3628177.
+
+95: Zago W, Schroeter S, Guido T, Khan K, Seubert P, Yednock T, Schenk D, Gregg
+KM, Games D, Bard F, Kinney GG. Vascular alterations in PDAPP mice after anti-Aβ
+immunotherapy: Implications for amyloid-related imaging abnormalities.
+Alzheimers Dement. 2013 Oct;9(5 Suppl):S105-15. doi: 10.1016/j.jalz.2012.11.010.
+Epub 2013 Apr 11. PMID: 23583235.
+
+96: Hefti F, Goure WF, Jerecic J, Iverson KS, Walicke PA, Krafft GA. The case
+for soluble Aβ oligomers as a drug target in Alzheimer's disease. Trends
+Pharmacol Sci. 2013 May;34(5):261-6. doi: 10.1016/j.tips.2013.03.002. Epub 2013
+Apr 10. PMID: 23582316.
+
+97: Barakos J, Sperling R, Salloway S, Jack C, Gass A, Fiebach JB, Tampieri D,
+Melançon D, Miaux Y, Rippon G, Black R, Lu Y, Brashear HR, Arrighi HM, Morris
+KA, Grundman M. MR imaging features of amyloid-related imaging abnormalities.
+AJNR Am J Neuroradiol. 2013 Oct;34(10):1958-65. doi: 10.3174/ajnr.A3500. Epub
+2013 Apr 11. PMID: 23578674; PMCID: PMC7965435.
+
+98: Tayeb HO, Murray ED, Price BH, Tarazi FI. Bapineuzumab and solanezumab for
+Alzheimer's disease: is the 'amyloid cascade hypothesis' still alive? Expert
+Opin Biol Ther. 2013 Jul;13(7):1075-84. doi: 10.1517/14712598.2013.789856. Epub
+2013 Apr 10. PMID: 23574434.
+
+99: Sakai K, Yamada M. [Aβ immunotherapy for Alzheimer's disease]. Brain Nerve.
+2013 Apr;65(4):461-8. Japanese. PMID: 23568994.
+
+100: Roher AE, Cribbs DH, Kim RC, Maarouf CL, Whiteside CM, Kokjohn TA, Daugs
+ID, Head E, Liebsack C, Serrano G, Belden C, Sabbagh MN, Beach TG. Bapineuzumab
+alters aβ composition: implications for the amyloid cascade hypothesis and anti-
+amyloid immunotherapy. PLoS One. 2013;8(3):e59735. doi:
+10.1371/journal.pone.0059735. Epub 2013 Mar 21. PMID: 23555764; PMCID:
+PMC3605408.
+
+101: Barkhof F, Daams M, Scheltens P, Brashear HR, Arrighi HM, Bechten A, Morris
+K, McGovern M, Wattjes MP. An MRI rating scale for amyloid-related imaging
+abnormalities with edema or effusion. AJNR Am J Neuroradiol. 2013
+Aug;34(8):1550-5. doi: 10.3174/ajnr.A3475. Epub 2013 Feb 22. PMID: 23436056;
+PMCID: PMC8051438.
+
+102: Miles LA, Crespi GA, Doughty L, Parker MW. Bapineuzumab captures the
+N-terminus of the Alzheimer's disease amyloid-beta peptide in a helical
+conformation. Sci Rep. 2013;3:1302. doi: 10.1038/srep01302. PMID: 23416764;
+PMCID: PMC3575012.
+
+103: Grundman M, Dibernardo A, Raghavan N, Krams M, Yuen E. 2012: A watershed
+year for Alzheimer's disease research. J Nutr Health Aging. 2013 Jan;17(1):51-3.
+doi: 10.1007/s12603-013-0002-2. PMID: 23299380.
+
+104: Aisen PS, Vellas B. Passive immunotherapy for Alzheimer's disease: what
+have we learned, and where are we headed? J Nutr Health Aging. 2013
+Jan;17(1):49-50. doi: 10.1007/s12603-013-0001-3. PMID: 23299379.
+
+105: Castillo-Carranza DL, Lasagna-Reeves CA, Kayed R. Tau aggregates as
+immunotherapeutic targets. Front Biosci (Schol Ed). 2013 Jan 1;5(2):426-38. doi:
+10.2741/s381. PMID: 23277060.
+
+106: Castellani RJ, Perry G. Pathogenesis and disease-modifying therapy in
+Alzheimer's disease: the flat line of progress. Arch Med Res. 2012
+Nov;43(8):694-8. doi: 10.1016/j.arcmed.2012.09.009. Epub 2012 Oct 16. PMID:
+23085451.
+
+107: Nau JY. Dernières nouvelles du front anti-Alzheimer [Latest news on the
+anti-alzheimer's front]. Rev Med Suisse. 2012 Aug 29;8(351):1634-5. French.
+PMID: 22988718.
+
+108: Callaway E. Alzheimer's drugs take a new tack. Nature. 2012 Sep
+6;489(7414):13-4. doi: 10.1038/489013a. PMID: 22962697.
+
+109: Miller G. Alzheimer's research. Stopping Alzheimer's before it starts.
+Science. 2012 Aug 17;337(6096):790-2. doi: 10.1126/science.337.6096.790. Erratum
+in: Science. 2012 Nov 2;338(6107):604. PMID: 22903991.
+
+110: Bard F, Fox M, Friedrich S, Seubert P, Schenk D, Kinney GG, Yednock T.
+Sustained levels of antibodies against Aβ in amyloid-rich regions of the CNS
+following intravenous dosing in human APP transgenic mice. Exp Neurol. 2012
+Nov;238(1):38-43. doi: 10.1016/j.expneurol.2012.07.022. Epub 2012 Aug 7. PMID:
+22892246.
+
+111: Ozudogru SN, Lippa CF. Disease modifying drugs targeting β-amyloid. Am J
+Alzheimers Dis Other Demen. 2012 Aug;27(5):296-300. doi:
+10.1177/1533317512452034. PMID: 22815077.
+
+112: Ozerlat I. Alzheimer disease: CSF biomarkers could be used in Aβ
+immunotherapy trials for AD. Nat Rev Neurol. 2012 May 8;8(6):297. doi:
+10.1038/nrneurol.2012.86. PMID: 22565210.
+
+113: Blennow K, Zetterberg H, Rinne JO, Salloway S, Wei J, Black R, Grundman M,
+Liu E; AAB-001 201/202 Investigators. Effect of immunotherapy with bapineuzumab
+on cerebrospinal fluid biomarker levels in patients with mild to moderate
+Alzheimer disease. Arch Neurol. 2012 Aug;69(8):1002-10. doi:
+10.1001/archneurol.2012.90. PMID: 22473769.
+
+114: Zago W, Buttini M, Comery TA, Nishioka C, Gardai SJ, Seubert P, Games D,
+Bard F, Schenk D, Kinney GG. Neutralization of soluble, synaptotoxic amyloid β
+species by antibodies is epitope specific. J Neurosci. 2012 Feb
+22;32(8):2696-702. doi: 10.1523/JNEUROSCI.1676-11.2012. PMID: 22357853; PMCID:
+PMC6621896.
+
+115: Frisoni GB. ARIA from off-key operas? Lancet Neurol. 2012 Mar;11(3):207-8.
+doi: 10.1016/S1474-4422(12)70021-2. PMID: 22341028.
+
+116: Panza F, Frisardi V, Solfrizzi V, Imbimbo BP, Logroscino G, Santamato A,
+Greco A, Seripa D, Pilotto A. Immunotherapy for Alzheimer's disease: from anti-
+β-amyloid to tau-based immunization strategies. Immunotherapy. 2012
+Feb;4(2):213-38. doi: 10.2217/imt.11.170. PMID: 22339463.
+
+117: Sperling R, Salloway S, Brooks DJ, Tampieri D, Barakos J, Fox NC, Raskind
+M, Sabbagh M, Honig LS, Porsteinsson AP, Lieberburg I, Arrighi HM, Morris KA, Lu
+Y, Liu E, Gregg KM, Brashear HR, Kinney GG, Black R, Grundman M. Amyloid-related
+imaging abnormalities in patients with Alzheimer's disease treated with
+bapineuzumab: a retrospective analysis. Lancet Neurol. 2012 Mar;11(3):241-9.
+doi: 10.1016/S1474-4422(12)70015-7. Epub 2012 Feb 3. PMID: 22305802; PMCID:
+PMC4063417.
+
+118: Imbimbo BP, Ottonello S, Frisardi V, Solfrizzi V, Greco A, Seripa D,
+Pilotto A, Panza F. Solanezumab for the treatment of mild-to-moderate
+Alzheimer's disease. Expert Rev Clin Immunol. 2012 Feb;8(2):135-49. doi:
+10.1586/eci.11.93. PMID: 22288451.
+
+119: Tabira T, Matsumoto SE, Jin H. [Antibody therapy for Alzheimer's disease].
+Rinsho Shinkeigaku. 2011 Nov;51(11):1160-1. Japanese. doi:
+10.5692/clinicalneurol.51.1160. PMID: 22277519.
+
+120: Delrieu J, Ousset PJ, Caillaud C, Vellas B. 'Clinical trials in Alzheimer's
+disease': immunotherapy approaches. J Neurochem. 2012 Jan;120 Suppl 1:186-193.
+doi: 10.1111/j.1471-4159.2011.07458.x. Epub 2011 Nov 28. Retraction in: J
+Neurochem. 2021 Aug;158(3):821. PMID: 21883222.
+
+121: Gravitz L. Drugs: a tangled web of targets. Nature. 2011 Jul
+13;475(7355):S9-11. doi: 10.1038/475S9a. PMID: 21760583.
+
+122: Schnabel J. Vaccines: chasing the dream. Nature. 2011 Jul
+13;475(7355):S18-9. doi: 10.1038/475S18a. PMID: 21760578.
+
+123: Vallabhajosula S. Positron emission tomography radiopharmaceuticals for
+imaging brain Beta-amyloid. Semin Nucl Med. 2011 Jul;41(4):283-99. doi:
+10.1053/j.semnuclmed.2011.02.005. PMID: 21624562.
+
+124: Panza F, Frisardi V, Imbimbo BP, Seripa D, Paris F, Santamato A, D'Onofrio
+G, Logroscino G, Pilotto A, Solfrizzi V. Anti-β-amyloid immunotherapy for
+Alzheimer's disease: focus on bapineuzumab. Curr Alzheimer Res. 2011
+Dec;8(8):808-17. doi: 10.2174/156720511798192718. PMID: 21592055.
+
+125: Panza F, Frisardi V, Imbimbo BP, Seripa D, Solfrizzi V, Pilotto A.
+Monoclonal antibodies against β-amyloid (Aβ) for the treatment of Alzheimer's
+disease: the Aβ target at a crossroads. Expert Opin Biol Ther. 2011
+Jun;11(6):679-86. doi: 10.1517/14712598.2011.579099. Epub 2011 Apr 19. PMID:
+21501112.
+
+126: Reichert JM. Letter from the Editor: stratified medicine. MAbs. 2010 Mar-
+Apr;2(2):107. doi: 10.4161/mabs.2.2.11320. PMID: 21358857; PMCID: PMC2840229.
+
+127: Greenberg SM, Frosch MP. Life imitates art: anti-amyloid antibodies and
+inflammatory cerebral amyloid angiopathy. Neurology. 2011 Mar 1;76(9):772-3.
+doi: 10.1212/WNL.0b013e31820e7bce. PMID: 21357829.
+
+128: Roher AE, Maarouf CL, Daugs ID, Kokjohn TA, Hunter JM, Sabbagh MN, Beach
+TG. Neuropathology and amyloid-β spectrum in a bapineuzumab immunotherapy
+recipient. J Alzheimers Dis. 2011;24(2):315-25. doi: 10.3233/JAD-2011-101809.
+PMID: 21263194; PMCID: PMC3172868.
+
+129: Panza F, Frisardi V, Imbimbo BP, D'Onofrio G, Pietrarossa G, Seripa D,
+Pilotto A, Solfrizzi V. Bapineuzumab: anti-β-amyloid monoclonal antibodies for
+the treatment of Alzheimer's disease. Immunotherapy. 2010 Nov;2(6):767-82. doi:
+10.2217/imt.10.80. PMID: 21091109.
+
+130: Reichert JM. Antibody-based therapeutics to watch in 2011. MAbs. 2011 Jan-
+Feb;3(1):76-99. doi: 10.4161/mabs.3.1.13895. Epub 2011 Jan 1. PMID: 21051951;
+PMCID: PMC3038014.
+
+131: Laskowitz DT, Kolls BJ. A phase 2 multiple ascending dose trial of
+bapineuzumab in mild to moderate Alzheimer disease. Neurology. 2010 Jun
+15;74(24):2026; author reply 2026-7. doi: 10.1212/WNL.0b013e3181e03844. PMID:
+20548049.
+
+132: Black RS, Sperling RA, Safirstein B, Motter RN, Pallay A, Nichols A,
+Grundman M. A single ascending dose study of bapineuzumab in patients with
+Alzheimer disease. Alzheimer Dis Assoc Disord. 2010 Apr-Jun;24(2):198-203. doi:
+10.1097/WAD.0b013e3181c53b00. PMID: 20505438; PMCID: PMC3715117.
+
+133: Kerchner GA, Boxer AL. Bapineuzumab. Expert Opin Biol Ther. 2010
+Jul;10(7):1121-30. doi: 10.1517/14712598.2010.493872. PMID: 20497044; PMCID:
+PMC3000430.
+
+134: Prins ND, Visser PJ, Scheltens P. Can novel therapeutics halt the amyloid
+cascade? Alzheimers Res Ther. 2010 Apr 9;2(2):5. doi: 10.1186/alzrt28. PMID:
+20388189; PMCID: PMC2876783.
+
+135: Cribbs DH. Abeta DNA vaccination for Alzheimer's disease: focus on disease
+prevention. CNS Neurol Disord Drug Targets. 2010 Apr;9(2):207-16. doi:
+10.2174/187152710791012080. PMID: 20205639; PMCID: PMC3153446.
+
+136: Rinne JO, Brooks DJ, Rossor MN, Fox NC, Bullock R, Klunk WE, Mathis CA,
+Blennow K, Barakos J, Okello AA, Rodriguez Martinez de Liano S, Liu E, Koller M,
+Gregg KM, Schenk D, Black R, Grundman M. 11C-PiB PET assessment of change in
+fibrillar amyloid-beta load in patients with Alzheimer's disease treated with
+bapineuzumab: a phase 2, double-blind, placebo-controlled, ascending-dose study.
+Lancet Neurol. 2010 Apr;9(4):363-72. doi: 10.1016/S1474-4422(10)70043-0. Epub
+2010 Feb 26. PMID: 20189881.
+
+137: Gandy S. Testing the amyloid hypothesis of Alzheimer's disease in vivo.
+Lancet Neurol. 2010 Apr;9(4):333-5. doi: 10.1016/S1474-4422(10)70055-7. Epub
+2010 Feb 26. PMID: 20189880; PMCID: PMC3274723.
+
+138: Panza F, Solfrizzi V, Frisardi V, Imbimbo BP, Capurso C, D'Introno A,
+Colacicco AM, Seripa D, Vendemiale G, Capurso A, Pilotto A. Beyond the
+neurotransmitter-focused approach in treating Alzheimer's disease: drugs
+targeting beta-amyloid and tau protein. Aging Clin Exp Res. 2009
+Dec;21(6):386-406. doi: 10.1007/BF03327445. PMID: 20154508.
+
+139: Wilcock GK. Bapineuzumab in Alzheimer's disease: where now? Lancet Neurol.
+2010 Feb;9(2):134-6. doi: 10.1016/S1474-4422(09)70359-X. PMID: 20129159.
+
+140: Tabira T. [Vaccination therapy for Alzheimer's disease]. Rinsho
+Shinkeigaku. 2009 Nov;49(11):848-50. Japanese. doi:
+10.5692/clinicalneurol.49.848. PMID: 20030228.
+
+141: Frisardi V, Solfrizzi V, Imbimbo PB, Capurso C, D'Introno A, Colacicco AM,
+Vendemiale G, Seripa D, Pilotto A, Capurso A, Panza F. Towards disease-modifying
+treatment of Alzheimer's disease: drugs targeting beta-amyloid. Curr Alzheimer
+Res. 2010 Feb;7(1):40-55. doi: 10.2174/156720510790274400. PMID: 19939231.
+
+142: Salloway S, Sperling R, Gilman S, Fox NC, Blennow K, Raskind M, Sabbagh M,
+Honig LS, Doody R, van Dyck CH, Mulnard R, Barakos J, Gregg KM, Liu E,
+Lieberburg I, Schenk D, Black R, Grundman M; Bapineuzumab 201 Clinical Trial
+Investigators. A phase 2 multiple ascending dose trial of bapineuzumab in mild
+to moderate Alzheimer disease. Neurology. 2009 Dec 15;73(24):2061-70. doi:
+10.1212/WNL.0b013e3181c67808. Epub 2009 Nov 18. PMID: 19923550; PMCID:
+PMC2790221.
+
+143: Kaufer D, Gandy S. APOE {epsilon}4 and bapineuzumab: Infusing
+pharmacogenomics into Alzheimer disease therapeutics. Neurology. 2009 Dec
+15;73(24):2052-3. doi: 10.1212/WNL.0b013e3181c6784a. Epub 2009 Nov 18. PMID:
+19923549.
+
+144: Sheridan C. J&J's billion dollar punt on anti-amyloid antibody. Nat
+Biotechnol. 2009 Aug;27(8):679-81. doi: 10.1038/nbt0809-679. PMID: 19668155.
+
+145: Albert JS. Progress in the development of beta-secretase inhibitors for
+Alzheimer's disease. Prog Med Chem. 2009;48:133-61. doi:
+10.1016/s0079-6468(09)04804-8. PMID: 21544959.

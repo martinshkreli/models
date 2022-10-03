@@ -1,0 +1,1104 @@
+1: Adzhar MA, Manlapaz D, Singh DKA, Mesbah N. Exercise to Improve Postural
+Stability in Older Adults with Alzheimer's Disease: A Systematic Review of
+Randomized Control Trials. Int J Environ Res Public Health. 2022 Aug
+19;19(16):10350. doi: 10.3390/ijerph191610350. PMID: 36011984; PMCID:
+PMC9408145.
+
+2: Möller J, Bevilacqua R, Browne R, Shinada T, Dacunha S, Palmier C, Stara V,
+Maranesi E, Margaritini A, Takano E, Kondo I, Watanabe S, Ahmadi M, Wieching R,
+Ogawa T. User Perceptions and Needs Analysis of a Virtual Coach for Active and
+Healthy Ageing-An International Qualitative Study. Int J Environ Res Public
+Health. 2022 Aug 19;19(16):10341. doi: 10.3390/ijerph191610341. PMID: 36011975;
+PMCID: PMC9408500.
+
+3: Barati S, Fabrizio C, Strafella C, Cascella R, Caputo V, Megalizzi D, Peconi
+C, Mela J, Colantoni L, Caltagirone C, Termine A, Giardina E. Relationship
+between Nutrition, Lifestyle, and Neurodegenerative Disease: Lessons from
+<i>ADH1B</i>, <i>CYP1A2</i> and <i>MTHFR</i>. Genes (Basel). 2022 Aug
+22;13(8):1498. doi: 10.3390/genes13081498. PMID: 36011409; PMCID: PMC9408177.
+
+4: Kalkan H, Akkaya UM, Inal-Gültekin G, Sanchez-Perez AM. Prediction of
+Alzheimer's Disease by a Novel Image-Based Representation of Gene Expression.
+Genes (Basel). 2022 Aug 8;13(8):1406. doi: 10.3390/genes13081406. PMID:
+36011317; PMCID: PMC9407775.
+
+5: Butt MH, Zaman M, Ahmad A, Khan R, Mallhi TH, Hasan MM, Khan YH, Hafeez S,
+Massoud EES, Rahman MH, Cavalu S. Appraisal for the Potential of Viral and
+Nonviral Vectors in Gene Therapy: A Review. Genes (Basel). 2022 Jul
+30;13(8):1370. doi: 10.3390/genes13081370. PMID: 36011281; PMCID: PMC9407213.
+
+6: Ward KM, Pickett BD, Ebbert MTW, Kauwe JSK, Miller JB. Web-Based Protein
+Interactions Calculator Identifies Likely Proteome Coevolution with Alzheimer's
+Disease-Associated Proteins. Genes (Basel). 2022 Jul 27;13(8):1346. doi:
+10.3390/genes13081346. PMID: 36011253; PMCID: PMC9407263.
+
+7: Wu T, Sun F, Guo Y, Zhai M, Yu S, Chu J, Yu C, Yang Y. Spatio-Temporal
+Dynamics of Entropy in EEGS during Music Stimulation of Alzheimer's Disease
+Patients with Different Degrees of Dementia. Entropy (Basel). 2022 Aug
+17;24(8):1137. doi: 10.3390/e24081137. PMID: 36010801; PMCID: PMC9407451.
+
+8: Stamovlasis D, Giannouli V, Vaiopoulou J, Tsolaki M. Catastrophe Theory
+Applied to Neuropsychological Data: Nonlinear Effects of Depression on Financial
+Capacity in Amnestic Mild Cognitive Impairment and Dementia. Entropy (Basel).
+2022 Aug 7;24(8):1089. doi: 10.3390/e24081089. PMID: 36010753; PMCID:
+PMC9407425.
+
+9: Schuster KH, Putka AF, McLoughlin HS. Pathogenetic Mechanisms Underlying
+Spinocerebellar Ataxia Type 3 Are Altered in Primary Oligodendrocyte Culture.
+Cells. 2022 Aug 22;11(16):2615. doi: 10.3390/cells11162615. PMID: 36010688;
+PMCID: PMC9406561.
+
+10: Tanaka M, Szabó Á, Spekker E, Polyák H, Tóth F, Vécsei L. Mitochondrial
+Impairment: A Common Motif in Neuropsychiatric Presentation? The Link to the
+Tryptophan-Kynurenine Metabolic System. Cells. 2022 Aug 21;11(16):2607. doi:
+10.3390/cells11162607. PMID: 36010683; PMCID: PMC9406499.
+
+11: Vasilopoulou F, Bellver-Sanchis A, Companys-Alemany J, Jarne-Ferrer J,
+Irisarri A, Palomera-Ávalos V, Gonzalez-Castillo C, Ortuño-Sahagún D, Sanfeliu
+C, Pallàs M, Griñán-Ferré C. Cognitive Decline and BPSD Are Concomitant with
+Autophagic and Synaptic Deficits Associated with G9a Alterations in Aged SAMP8
+Mice. Cells. 2022 Aug 21;11(16):2603. doi: 10.3390/cells11162603. PMID:
+36010679; PMCID: PMC9406492.
+
+12: Masi M, Attanzio A, Racchi M, Wolozin B, Borella S, Biundo F, Buoso E.
+Proteostasis Deregulation in Neurodegeneration and Its Link with Stress
+Granules: Focus on the Scaffold and Ribosomal Protein RACK1. Cells. 2022 Aug
+19;11(16):2590. doi: 10.3390/cells11162590. PMID: 36010666; PMCID: PMC9406587.
+
+13: Jang BG, Choi B, Kim S, Lee DS, Lee J, Koh YH, Jo SA, Kim JE, Kang TC, Kim
+MJ. 2,4-Diacetylphloroglucinol Reduces Beta-Amyloid Production and Secretion by
+Regulating ADAM10 and Intracellular Trafficking in Cellular and Animal Models of
+Alzheimer's Disease. Cells. 2022 Aug 19;11(16):2585. doi: 10.3390/cells11162585.
+PMID: 36010661; PMCID: PMC9406471.
+
+14: Theiss EL, Griebsch LV, Lauer AA, Janitschke D, Erhardt VKJ, Haas EC,
+Kuppler KN, Radermacher J, Walzer O, Portius D, Grimm HS, Hartmann T, Grimm MOW.
+Vitamin B12 Attenuates Changes in Phospholipid Levels Related to Oxidative
+Stress in SH-SY5Y Cells. Cells. 2022 Aug 18;11(16):2574. doi:
+10.3390/cells11162574. PMID: 36010649; PMCID: PMC9406929.
+
+15: Martín-Martín Y, Pérez-García A, Torrecilla-Parra M, Fernández-de Frutos M,
+Pardo-Marqués V, Casarejos MJ, Busto R, Ramírez CM. New Insights on the
+Regulation of the Insulin-Degrading Enzyme: Role of microRNAs and RBPs. Cells.
+2022 Aug 16;11(16):2538. doi: 10.3390/cells11162538. PMID: 36010613; PMCID:
+PMC9406717.
+
+16: Sun Y, Yang Y, Liu S, Yang S, Chen C, Lin M, Zeng Q, Long J, Yao J, Yi F,
+Meng L, Ai Q, Chen N. New Therapeutic Approaches to and Mechanisms of
+Ginsenoside Rg1 against Neurological Diseases. Cells. 2022 Aug 16;11(16):2529.
+doi: 10.3390/cells11162529. PMID: 36010610; PMCID: PMC9406801.
+
+17: Nadhan R, Isidoro C, Song YS, Dhanasekaran DN. Signaling by LncRNAs:
+Structure, Cellular Homeostasis, and Disease Pathology. Cells. 2022 Aug
+13;11(16):2517. doi: 10.3390/cells11162517. PMID: 36010595; PMCID: PMC9406440.
+
+18: Guo C, Valdés A, Sánchez-Martínez JD, Ibáñez E, Bi J, Cifuentes A.
+Neuroprotective Potential of Thinned Peaches Extracts Obtained by Pressurized
+Liquid Extraction after Different Drying Processes. Foods. 2022 Aug
+16;11(16):2464. doi: 10.3390/foods11162464. PMID: 36010464; PMCID: PMC9407205.
+
+19: Sharma S, Gupta S, Gupta D, Altameem A, Saudagar AKJ, Poonia RC, Nayak SR.
+HTLML: Hybrid AI Based Model for Detection of Alzheimer's Disease. Diagnostics
+(Basel). 2022 Jul 29;12(8):1833. doi: 10.3390/diagnostics12081833. PMID:
+36010183; PMCID: PMC9406825.
+
+20: Gray NE, Farina M, Tucci P, Saso L. The Role of the NRF2 Pathway in
+Maintaining and Improving Cognitive Function. Biomedicines. 2022 Aug
+21;10(8):2043. doi: 10.3390/biomedicines10082043. PMID: 36009590; PMCID:
+PMC9405981.
+
+21: Yu TM, Chuang YW, Huang ST, Huang JA, Chen CH, Chung MC, Wu CY, Chang PY,
+Hsu CC, Wu MJ. Risk of Dementia after Exposure to Contrast Media: A Nationwide,
+Population-Based Cohort Study. Biomedicines. 2022 Aug 19;10(8):2015. doi:
+10.3390/biomedicines10082015. PMID: 36009563; PMCID: PMC9406096.
+
+22: Jullienne A, Quan R, Szu JI, Trinh MV, Behringer EJ, Obenaus A. Progressive
+Vascular Abnormalities in the Aging 3xTg-AD Mouse Model of Alzheimer's Disease.
+Biomedicines. 2022 Aug 13;10(8):1967. doi: 10.3390/biomedicines10081967. PMID:
+36009514; PMCID: PMC9405684.
+
+23: Chowdhury MR, Jin HK, Bae JS. Diverse Roles of Ceramide in the Progression
+and Pathogenesis of Alzheimer's Disease. Biomedicines. 2022 Aug 12;10(8):1956.
+doi: 10.3390/biomedicines10081956. PMID: 36009503; PMCID: PMC9406151.
+
+24: Leung HW, Foo G, VanDongen A. Arc Regulates Transcription of Genes for
+Plasticity, Excitability and Alzheimer's Disease. Biomedicines. 2022 Aug
+11;10(8):1946. doi: 10.3390/biomedicines10081946. PMID: 36009494; PMCID:
+PMC9405677.
+
+25: Grossmann K. Direct Oral Anticoagulants (DOACs) for Therapeutic Targeting of
+Thrombin, a Key Mediator of Cerebrovascular and Neuronal Dysfunction in
+Alzheimer's Disease. Biomedicines. 2022 Aug 4;10(8):1890. doi:
+10.3390/biomedicines10081890. PMID: 36009437; PMCID: PMC9405823.
+
+26: Lee NK, Myeong SH, Hwang JW, Sa JK, Son HJ, Kim HJ, Jang H, Chang JW, Na DL.
+Combination of Dexamethasone and Tofacitinib Reduces Xenogeneic MSC-Induced
+Immune Responses in a Mouse Model of Alzheimer's Disease. Biomedicines. 2022 Aug
+4;10(8):1882. doi: 10.3390/biomedicines10081882. PMID: 36009433; PMCID:
+PMC9405531.
+
+27: Tsantzali I, Foska A, Sideri E, Routsi E, Tsomaka E, Kitsos DK, Zompola C,
+Bonakis A, Giannopoulos S, Voumvourakis KI, Tsivgoulis G, Paraskevas GP. Plasma
+Phospho-Tau-181 as a Diagnostic Aid in Alzheimer's Disease. Biomedicines. 2022
+Aug 3;10(8):1879. doi: 10.3390/biomedicines10081879. PMID: 36009425; PMCID:
+PMC9405617.
+
+28: Wang IF, Ho PC, Tsai KJ. MicroRNAs in Learning and Memory and Their Impact
+on Alzheimer's Disease. Biomedicines. 2022 Aug 1;10(8):1856. doi:
+10.3390/biomedicines10081856. PMID: 36009403; PMCID: PMC9405363.
+
+29: Kang J, Park M, Lee E, Jung J, Kim T. The Role of Vitamin D in Alzheimer's
+Disease: A Transcriptional Regulator of Amyloidopathy and Gliopathy.
+Biomedicines. 2022 Jul 28;10(8):1824. doi: 10.3390/biomedicines10081824. PMID:
+36009371; PMCID: PMC9404847.
+
+30: Giordano-Kelhoffer B, Lorca C, March Llanes J, Rábano A, Del Ser T, Serra A,
+Gallart-Palau X. Oral Microbiota, Its Equilibrium and Implications in the
+Pathophysiology of Human Diseases: A Systematic Review. Biomedicines. 2022 Jul
+27;10(8):1803. doi: 10.3390/biomedicines10081803. PMID: 36009350; PMCID:
+PMC9405223.
+
+31: Shabir S, Yousuf S, Singh SK, Vamanu E, Singh MP. Ethnopharmacological
+Effects of <i>Urtica dioica</i>, <i>Matricaria chamomilla</i>, and <i>Murraya
+koenigii</i> on Rotenone-Exposed <i>D. melanogaster</i>: An Attenuation of
+Cellular, Biochemical, and Organismal Markers. Antioxidants (Basel). 2022 Aug
+21;11(8):1623. doi: 10.3390/antiox11081623. PMID: 36009342; PMCID: PMC9405140.
+
+32: Zhai Z, Huang Y, Zhang Y, Zhao L, Li W. Clinical Research Progress of Small
+Molecule Compounds Targeting Nrf2 for Treating Inflammation-Related Diseases.
+Antioxidants (Basel). 2022 Aug 12;11(8):1564. doi: 10.3390/antiox11081564. PMID:
+36009283; PMCID: PMC9405369.
+
+33: Horváth G, Sváb G, Komlódi T, Ravasz D, Kacsó G, Doczi J, Chinopoulos C,
+Ambrus A, Tretter L. Reverse and Forward Electron Flow-Induced
+H<sub>2</sub>O<sub>2</sub> Formation Is Decreased in α-Ketoglutarate
+Dehydrogenase (α-KGDH) Subunit (E2 or E3) Heterozygote Knock Out Animals.
+Antioxidants (Basel). 2022 Jul 29;11(8):1487. doi: 10.3390/antiox11081487. PMID:
+36009207; PMCID: PMC9404749.
+
+34: Jeon JH, Lourenco JM, Fagan MM, Welch CB, Sneed SE, Dubrof S, Duberstein KJ,
+Callaway TR, West FD, Park HJ. Changes in Oral Microbial Diversity in a Piglet
+Model of Traumatic Brain Injury. Brain Sci. 2022 Aug 21;12(8):1111. doi:
+10.3390/brainsci12081111. PMID: 36009173; PMCID: PMC9405691.
+
+35: Figat M, Kardas G, Kuna P, Panek MG. Beneficial Influence of Exendin-4 on
+Specific Organs and Mechanisms Favourable for the Elderly with Concomitant
+Obstructive Lung Diseases. Brain Sci. 2022 Aug 17;12(8):1090. doi:
+10.3390/brainsci12081090. PMID: 36009152; PMCID: PMC9405576.
+
+36: Feng V, Tumati S, Wang R, Bawa KK, Gallagher D, Herrmann N, Marzolini S, Oh
+P, Andreazza A, Lanctôt KL. The Relationship between Oxidative Stress and
+Subjective Sleep Quality in People with Coronary Artery Disease. Brain Sci. 2022
+Aug 12;12(8):1070. doi: 10.3390/brainsci12081070. PMID: 36009133; PMCID:
+PMC9406162.
+
+37: Zhao Y, Zhang J, Chen Y, Jiang J. A Novel Deep Learning Radiomics Model to
+Discriminate AD, MCI and NC: An Exploratory Study Based on Tau PET Scans from
+ADNI. Brain Sci. 2022 Aug 12;12(8):1067. doi: 10.3390/brainsci12081067. PMID:
+36009130; PMCID: PMC9406185.
+
+38: Shen Y, Qian L, Luo H, Li X, Ruan Y, Fan R, Si Z, Chen Y, Li L, Liu Y. The
+Significance of NLRP Inflammasome in Neuropsychiatric Disorders. Brain Sci. 2022
+Aug 10;12(8):1057. doi: 10.3390/brainsci12081057. PMID: 36009120; PMCID:
+PMC9406040.
+
+39: Yu QS, Feng WQ, Shi LL, Niu RZ, Liu J. Integrated Analysis of Cortex Single-
+Cell Transcriptome and Serum Proteome Reveals the Novel Biomarkers in
+Alzheimer's Disease. Brain Sci. 2022 Aug 1;12(8):1022. doi:
+10.3390/brainsci12081022. PMID: 36009085; PMCID: PMC9405865.
+
+40: Beauchet O, Matskiv J, Rolland Y, Schott AM, Allali G. Using Interaction
+between Cognitive and Motor Impairment for Risk Screening of Major
+Neurocognitive Disorders: Results of the EPIDOS Observational Cohort Study.
+Brain Sci. 2022 Jul 31;12(8):1021. doi: 10.3390/brainsci12081021. PMID:
+36009084; PMCID: PMC9406082.
+
+41: Athanasiou E, Gargalionis AN, Anastassopoulou C, Tsakris A, Boufidou F. New
+Insights into the Molecular Interplay between Human Herpesviruses and
+Alzheimer's Disease-A Narrative Review. Brain Sci. 2022 Jul 30;12(8):1010. doi:
+10.3390/brainsci12081010. PMID: 36009073; PMCID: PMC9406069.
+
+42: Assogna M, Di Lorenzo F, Martorana A, Koch G. Synaptic Effects of
+Palmitoylethanolamide in Neurodegenerative Disorders. Biomolecules. 2022 Aug
+22;12(8):1161. doi: 10.3390/biom12081161. PMID: 36009055; PMCID: PMC9405819.
+
+43: Schreiner TG, Creangă-Murariu I, Tamba BI, Lucanu N, Popescu BO. In Vitro
+Modeling of the Blood-Brain Barrier for the Study of Physiological Conditions
+and Alzheimer's Disease. Biomolecules. 2022 Aug 18;12(8):1136. doi:
+10.3390/biom12081136. PMID: 36009030; PMCID: PMC9405874.
+
+44: Tzartos JS, Boufidou F, Stergiou C, Kuhle J, Willemse E, Palaiodimou L,
+Tsantzali I, Sideri E, Bonakis A, Giannopoulos S, Voumvourakis KI, Tsivgoulis G,
+Tzartos SJ, Kapaki E, Paraskevas GP. Plasma P-Tau181 for the Discrimination of
+Alzheimer's Disease from Other Primary Dementing and/or Movement Disorders.
+Biomolecules. 2022 Aug 10;12(8):1099. doi: 10.3390/biom12081099. PMID: 36008993;
+PMCID: PMC9405977.
+
+45: Ramos-Martínez E, Ramos-Martínez I, Sánchez-Betancourt I, Ramos-Martínez JC,
+Peña-Corona SI, Valencia J, Saucedo R, Almeida-Aguirre EKP, Cerbón M.
+Association between Galectin Levels and Neurodegenerative Diseases: Systematic
+Review and Meta-Analysis. Biomolecules. 2022 Jul 31;12(8):1062. doi:
+10.3390/biom12081062. PMID: 36008956; PMCID: PMC9406080.
+
+46: Zhang Y, Yang L, Gao Y, Zhang D, Tao Y, Xu H, Chen Y, Xu Y, Zhang M. Choroid
+and choriocapillaris changes in early-stage Parkinson's disease: a swept-source
+optical coherence tomography angiography-based cross-sectional study. Alzheimers
+Res Ther. 2022 Aug 25;14(1):116. doi: 10.1186/s13195-022-01054-z. PMID:
+36008844; PMCID: PMC9404633.
+
+47: Pocevičiūtė D, Nuñez-Diaz C, Roth B, Janelidze S; Netherlands Brain Bank,
+Giannisis A, Hansson O, Wennström M. Increased plasma and brain immunoglobulin A
+in Alzheimer's disease is lost in apolipoprotein E ε4 carriers. Alzheimers Res
+Ther. 2022 Aug 26;14(1):117. doi: 10.1186/s13195-022-01062-z. PMID: 36008818;
+PMCID: PMC9414424.
+
+48: Taş K, Volta BD, Lindner C, El Bounkari O, Hille K, Tian Y, Puig-Bosch X,
+Ballmann M, Hornung S, Ortner M, Prem S, Meier L, Rammes G, Haslbeck M, Weber C,
+Megens RTA, Bernhagen J, Kapurniotu A. Designed peptides as nanomolar cross-
+amyloid inhibitors acting via supramolecular nanofiber co-assembly. Nat Commun.
+2022 Aug 25;13(1):5004. doi: 10.1038/s41467-022-32688-0. PMID: 36008417; PMCID:
+PMC9411207.
+
+49: Oswald MJ, Han Y, Li H, Marashli S, Oglo DN, Ojha B, Naser PV, Gan Z, Kuner
+R. Cholinergic basal forebrain nucleus of Meynert regulates chronic pain-like
+behavior via modulation of the prelimbic cortex. Nat Commun. 2022 Aug
+25;13(1):5014. doi: 10.1038/s41467-022-32558-9. PMID: 36008394; PMCID:
+PMC9411538.
+
+50: Tosserams A, Keijsers N, Kapelle W, Kessels RPC, Weerdesteyn V, Bloem BR,
+Nonnekes J. Evaluation of Compensation Strategies for Gait Impairment in
+Patients With Parkinson Disease. Neurology. 2022 Aug
+25:10.1212/WNL.0000000000201159. doi: 10.1212/WNL.0000000000201159. Epub ahead
+of print. PMID: 36008154.
+
+51: Shi B, Zhao J, Xu Z, Chen C, Xu L, Xu C, Sun M, Kuang H. Chiral
+Nanoparticles Force Neural Stem Cell Differentiation to Alleviate Alzheimer's
+Disease. Adv Sci (Weinh). 2022 Aug 25:e2202475. doi: 10.1002/advs.202202475.
+Epub ahead of print. PMID: 36008133.
+
+52: Du C, Feng W, Dai X, Wang J, Geng D, Li X, Chen Y, Zhang J. Cu<sup>2+</sup>
+-Chelatable and ROS-Scavenging MXenzyme as NIR-II-Triggered Blood-Brain Barrier-
+Crossing Nanocatalyst against Alzheimer's Disease. Small. 2022
+Sep;18(39):e2203031. doi: 10.1002/smll.202203031. Epub 2022 Aug 25. PMID:
+36008124.
+
+53: Schott JM. How preventable is dementia? Pract Neurol. 2022 Aug
+25:pn-2022-003418. doi: 10.1136/pn-2022-003418. Epub ahead of print. PMID:
+36008107.
+
+54: Yu MY, Liu SN, Luo EE, Jin Q, Liu H, Liu HY, Luo XD, Qin XJ. Phloroglucinols
+with hAChE and α-glucosidase inhibitory activities from the leaves of tropic
+Rhodomyrtus tomentosa. Phytochemistry. 2022 Aug 23;203:113394. doi:
+10.1016/j.phytochem.2022.113394. Epub ahead of print. PMID: 36007662.
+
+55: Iqbal J, Suarez MD, Yadav PK, Walsh MT, Li Y, Wu Y, Huang Z, James AW,
+Escobar V, Mokbe A, Brickman AM, Luchsinger JA, Dai K, Moreno H, Hussain MM.
+ATP-binding cassette protein ABCA7 deficiency impairs sphingomyelin synthesis,
+cognitive discrimination, and synaptic plasticity in the entorhinal cortex. J
+Biol Chem. 2022 Aug 23;298(10):102411. doi: 10.1016/j.jbc.2022.102411. Epub
+ahead of print. PMID: 36007616; PMCID: PMC9513280.
+
+56: Liu W, Wu L, Liu W, Tian L, Chen H, Wu Z, Wang N, Liu X, Qiu J, Feng X, Xu
+Z, Jiang X, Zhao Q. Design, synthesis and biological evaluation of novel
+coumarin derivatives as multifunctional ligands for the treatment of Alzheimer's
+disease. Eur J Med Chem. 2022 Nov 15;242:114689. doi:
+10.1016/j.ejmech.2022.114689. Epub 2022 Aug 19. PMID: 36007469.
+
+57: Dai R, Sun Y, Su R, Gao H. Anti-Alzheimer's disease potential of traditional
+chinese medicinal herbs as inhibitors of BACE1 and AChE enzymes. Biomed
+Pharmacother. 2022 Oct;154:113576. doi: 10.1016/j.biopha.2022.113576. Epub 2022
+Aug 22. PMID: 36007279.
+
+58: Shrestha P, Katila N, Lee S, Seo JH, Jeong JH, Yook S. Methamphetamine
+induced neurotoxic diseases, molecular mechanism, and current treatment
+strategies. Biomed Pharmacother. 2022 Oct;154:113591. doi:
+10.1016/j.biopha.2022.113591. Epub 2022 Aug 22. PMID: 36007276.
+
+59: Shin JY, Habermann B. Caregivers of Adults Living With Alzheimer's Disease
+or Dementia in 2020: A Secondary Analysis. J Gerontol Nurs. 2022
+Sep;48(9):15-25. doi: 10.3928/00989134-20220805-02. Epub 2022 Sep 1. PMID:
+36007215.
+
+60: Ashe KH. Alzheimer's target still viable but untested. Science. 2022 Aug
+26;377(6609):935. doi: 10.1126/science.ade4073. Epub 2022 Aug 25. PMID:
+36007039.
+
+61: Selkoe D, Cummings J. News story miscasts Alzheimer's science. Science. 2022
+Aug 26;377(6609):934-935. doi: 10.1126/science.ade1872. Epub 2022 Aug 25. PMID:
+36007030.
+
+62: Luo Y, Shan L, Xu L, Patnala S, Kanfer I, Li J, Yu P, Jun X. A network
+pharmacology-based approach to explore the therapeutic potential of Sceletium
+tortuosum in the treatment of neurodegenerative disorders. PLoS One. 2022 Aug
+25;17(8):e0273583. doi: 10.1371/journal.pone.0273583. PMID: 36006974; PMCID:
+PMC9409587.
+
+63: Fang Y, Wang J, Zhao M, Zheng Q, Ren C, Wang Y, Zhang J. Progress and
+Challenges in Targeted Protein Degradation for Neurodegenerative Disease
+Therapy. J Med Chem. 2022 Sep 8;65(17):11454-11477. doi:
+10.1021/acs.jmedchem.2c00844. Epub 2022 Aug 25. PMID: 36006861.
+
+64: Sharma B, Satija G, Madan A, Garg M, Alam MM, Shaquiquzzaman M, Khanna S,
+Tiwari P, Parvez S, Iqubal A, Haque SE, Khan MA. Role of NLRP3 Inflammasome and
+Its Inhibitors as Emerging Therapeutic Drug Candidate for Alzheimer's Disease: a
+Review of Mechanism of Activation, Regulation, and Inhibition. Inflammation.
+2022 Aug 25:1–32. doi: 10.1007/s10753-022-01730-0. Epub ahead of print. PMID:
+36006570; PMCID: PMC9403980.
+
+65: Lu Y, Tan L, Xie J, Cheng L, Wang X. Distinct microglia alternative splicing
+in Alzheimer's disease. Aging (Albany NY). 2022 Aug 23;14(16):6554-6566. doi:
+10.18632/aging.204223. Epub 2022 Aug 23. PMID: 36006403; PMCID: PMC9467408.
+
+66: Lutz MW, Khachaturian AS, Zetterberg H, Blennow K, Willette AA, Mielke MM,
+Hayden KM, Dodge HH, Tang Y, Greenberg BD, Kukull WA, Khachaturian ZS.
+Biomarkers of Alzheimer syndrome and related dementias: A&D author's guide.
+Alzheimers Dement. 2022 Sep;18(9):1595-1601. doi: 10.1002/alz.12772. Epub 2022
+Aug 25. PMID: 36005812; PMCID: PMC9514317.
+
+67: Arendash G, Abulaban H, Steen S, Andel R, Wang Y, Bai Y, Baranowski R,
+McGarity J, Scritsmier L, Lin X, Shen N, Aljassabi A, Li Y, Cao C. Transcranial
+Electromagnetic Treatment Stops Alzheimer's Disease Cognitive Decline over a
+2½-Year Period: A Pilot Study. Medicines (Basel). 2022 Aug 3;9(8):42. doi:
+10.3390/medicines9080042. PMID: 36005647; PMCID: PMC9416517.
+
+68: Abdel-Wahab BA, F Abd El-Kareem H, Alzamami A, A Fahmy C, H Elesawy B,
+Mostafa Mahmoud M, Ghareeb A, El Askary A, H Abo Nahas H, G M Attallah N,
+Altwaijry N, M Saied E. Novel Exopolysaccharide from Marine <i>Bacillus
+subtilis</i> with Broad Potential Biological Activities: Insights into
+Antioxidant, Anti-Inflammatory, Cytotoxicity, and Anti-Alzheimer Activity.
+Metabolites. 2022 Jul 31;12(8):715. doi: 10.3390/metabo12080715. PMID: 36005587;
+PMCID: PMC9413097.
+
+69: Contador J, Pérez-Millan A, Guillén N, Sarto J, Tort-Merino A, Balasa M,
+Falgàs N, Castellví M, Borrego-Écija S, Juncà-Parella J, Bosch B, Fernández-
+Villullas G, Ramos-Campoy O, Antonell A, Bargalló N, Sanchez-Valle R, Sala-
+Llonch R, Lladó A. Sex differences in early-onset Alzheimer's disease. Eur J
+Neurol. 2022 Aug 25. doi: 10.1111/ene.15531. Epub ahead of print. PMID:
+36005384.
+
+70: Boonyarat C, Yenjai C, Monthakantirat O, Kaewamatawong R, Poonsawas P,
+Wangboonskul J, Chaiwiwatrakul S, Waiwut P. Multifunctionality of <i>Clausena
+harmandiana</i> Extract and Its Active Constituents against Alzheimer's Disease.
+Curr Issues Mol Biol. 2022 Aug 15;44(8):3681-3694. doi: 10.3390/cimb44080252.
+PMID: 36005148; PMCID: PMC9406758.
+
+71: Nahalka J. 1-L Transcription in Alzheimer's Disease. Curr Issues Mol Biol.
+2022 Aug 9;44(8):3533-3551. doi: 10.3390/cimb44080243. PMID: 36005139; PMCID:
+PMC9406503.
+
+72: McKendell AK, Houser MCQ, Mitchell SPC, Wolfe MS, Berezovska O, Maesako M.
+In-Depth Characterization of Endo-Lysosomal Aβ in Intact Neurons. Biosensors
+(Basel). 2022 Aug 20;12(8):663. doi: 10.3390/bios12080663. PMID: 36005059;
+PMCID: PMC9406119.
+
+73: Carfora D, Kim S, Houmani N, Garcia-Salicetti S, Rigaud AS. On Extracting
+Digitized Spiral Dynamics' Representations: A Study on Transfer Learning for
+Early Alzheimer's Detection. Bioengineering (Basel). 2022 Aug 9;9(8):375. doi:
+10.3390/bioengineering9080375. PMID: 36004900; PMCID: PMC9404815.
+
+74: Battineni G, Chintalapudi N, Hossain MA, Losco G, Ruocco C, Sagaro GG,
+Traini E, Nittari G, Amenta F. Artificial Intelligence Models in the Diagnosis
+of Adult-Onset Dementia Disorders: A Review. Bioengineering (Basel). 2022 Aug
+5;9(8):370. doi: 10.3390/bioengineering9080370. PMID: 36004895; PMCID:
+PMC9405227.
+
+75: Pistono A, Pariente J, Jucla M. Disfluency patterns in Alzheimer's disease
+and frontotemporal lobar degeneration. Clin Linguist Phon. 2022 Aug 25:1-14.
+doi: 10.1080/02699206.2022.2112085. Epub ahead of print. PMID: 36004675.
+
+76: Farrell K, Iida MA, Cherry JD, Casella A, Stein TD, Bieniek KF, Walker JM,
+Richardson TE, White CL, Alvarez VE, Huber BR, Dickson DW, Insausti R,
+Dams-O'Connor K; Part Working Group, McKee AC, Crary JF. Differential
+Vulnerability of Hippocampal Subfields in Primary Age-Related Tauopathy and
+Chronic Traumatic Encephalopathy. J Neuropathol Exp Neurol. 2022 Sep
+19;81(10):781-789. doi: 10.1093/jnen/nlac066. PMID: 36004533; PMCID: PMC9487677.
+
+77: Padmanabhan P, Kneynsberg A, Cruz E, Amor R, Sibarita JB, Götz J. Single-
+molecule imaging reveals Tau trapping at nanometer-sized dynamic hot spots near
+the plasma membrane that persists after microtubule perturbation and cholesterol
+depletion. EMBO J. 2022 Aug 25:e111265. doi: 10.15252/embj.2022111265. Epub
+ahead of print. PMID: 36004506.
+
+78: Gibo N, Hamaguchi T, Miki Y, Yamamura T, Nakaguro M, Ito M, Nakamuara M,
+Kawashima H, Hirayama M, Hirooka Y, Wakabayashi K, Ohno K. Examination of
+Abnormal Alpha-synuclein Aggregates in the Enteric Neural Plexus in Patients
+with Ulcerative Colitis. J Gastrointestin Liver Dis. 2022 Sep 15;31(3):290-300.
+doi: 10.15403/jgld-4313. PMID: 36004417.
+
+79: Wood PL, Woltjer RL. Serine ether glycerophospholipids: Decrements in the
+frontal cortex associated with mild cognitive impairment and Alzheimer's
+disease. Front Aging Neurosci. 2022 Aug 8;14:981868. doi:
+10.3389/fnagi.2022.981868. PMID: 36004004; PMCID: PMC9393623.
+
+80: Wu CC, Xiong HY, Zheng JJ, Wang XQ. Dance movement therapy for
+neurodegenerative diseases: A systematic review. Front Aging Neurosci. 2022 Aug
+8;14:975711. doi: 10.3389/fnagi.2022.975711. PMID: 36004000; PMCID: PMC9394857.
+
+81: Wang L, Feng Q, Ge X, Chen F, Yu B, Chen B, Liao Z, Lin B, Lv Y, Ding Z.
+Textural features reflecting local activity of the hippocampus improve the
+diagnosis of Alzheimer's disease and amnestic mild cognitive impairment: A
+radiomics study based on functional magnetic resonance imaging. Front Neurosci.
+2022 Aug 8;16:970245. doi: 10.3389/fnins.2022.970245. PMID: 36003964; PMCID:
+PMC9393721.
+
+82: Gong M, Jia J. Contribution of blood-brain barrier-related blood-borne
+factors for Alzheimer's disease vs. vascular dementia diagnosis: A pilot study.
+Front Neurosci. 2022 Aug 8;16:949129. doi: 10.3389/fnins.2022.949129. PMID:
+36003963; PMCID: PMC9393528.
+
+83: Ben Hassen C, Tahir R, Singh-Manoux A, Milic D, Paquet C, Sabia S, Dumurgier
+J. Ten-Year Trends in Sales of Alzheimer Disease Drugs in France Compared With
+Sales in Germany, Spain, and the UK. JAMA Health Forum. 2022 Aug 5;3(8):e222253.
+doi: 10.1001/jamahealthforum.2022.2253. PMID: 36003418; PMCID: PMC9356313.
+
+84: Ansari Z, Togra A, Seetharaman R, Rashmi A, Pawar S, Pawar M. Validity and
+Reliability of a Questionnaire Measuring Knowledge, Attitude, and Practice
+Regarding Dementia Among General Population and Healthcare Workers in Urban
+India. Cureus. 2022 Aug 20;14(8):e28196. doi: 10.7759/cureus.28196. PMID:
+36003345; PMCID: PMC9391958.
+
+85: Aires V, Ziegler-Waldkirch S, Friesen M, Reichardt W, Erny D, Loreth D,
+Harborne A, Kretz O, von Elverfeldt D, Meyer-Luehmann M. Seed-induced Aβ
+deposits in the corpus callosum disrupt white matter integrity in a mouse model
+of Alzheimer's disease. Front Cell Neurosci. 2022 Aug 8;16:862918. doi:
+10.3389/fncel.2022.862918. PMID: 36003141; PMCID: PMC9393256.
+
+86: Alipour M, Motavaf M, Abdolmaleki P, Zali A, Ashrafi F, Safari S, Hajipour-
+Verdom B. Structural Analysis and Conformational Dynamics of Short Helical
+Hyperphosphorylated Segments of Tau Protein (Sequence 254-290) in Alzheimer's
+Disease: A Molecular Dynamics Simulation Study. Front Mol Biosci. 2022 Aug
+8;9:884705. doi: 10.3389/fmolb.2022.884705. PMID: 36003083; PMCID: PMC9393928.
+
+87: Al-Mubarak B, Ahmed Nour M, Schumacher-Schuh A, Bandres-Ciga S. Globalizing
+Research toward Diverse Representation in Alzheimer's and Parkinson's Disease.
+Ann Neurol. 2022 Aug 24. doi: 10.1002/ana.26483. Epub ahead of print. PMID:
+36003053.
+
+88: Sabbagh MN, Decourt B. COR388 (atuzaginstat): an investigational gingipain
+inhibitor for the treatment of Alzheimer disease. Expert Opin Investig Drugs.
+2022 Sep 1:1-7. doi: 10.1080/13543784.2022.2117605. Epub ahead of print. PMID:
+36003033.
+
+89: Heywood A, Stocks J, Schneider JA, Arfanakis K, Bennett DA, Beg MF, Wang L.
+The unique effect of TDP-43 on hippocampal subfield morphometry and cognition.
+Neuroimage Clin. 2022;35:103125. doi: 10.1016/j.nicl.2022.103125. Epub 2022 Jul
+25. PMID: 36002965; PMCID: PMC9421500.
+
+90: Castelnovo V, Canu E, Magno MA, Gatti E, Riva N, Pain D, Mora G, Poletti B,
+Silani V, Filippi M, Agosta F. Pallidal functional connectivity changes are
+associated with disgust recognition in pure motor amyotrophic lateral sclerosis.
+Neuroimage Clin. 2022;35:103145. doi: 10.1016/j.nicl.2022.103145. Epub 2022 Aug
+5. PMID: 36002963; PMCID: PMC9421543.
+
+91: Giannisis A, Al-Grety A, Carlsson H, Patra K, Twohig D, Sando SB, Lauridsen
+C, Berge G, Grøntvedt GR, Bråthen G, White LR, Kultima K, Nielsen HM. Plasma
+apolipoprotein E levels in longitudinally followed patients with mild cognitive
+impairment and Alzheimer's disease. Alzheimers Res Ther. 2022 Aug 24;14(1):115.
+doi: 10.1186/s13195-022-01058-9. PMID: 36002891; PMCID: PMC9400269.
+
+92: Haure-Mirande JV, Audrain M, Ehrlich ME, Gandy S. Microglial TYROBP/DAP12 in
+Alzheimer's disease: Transduction of physiological and pathological signals
+across TREM2. Mol Neurodegener. 2022 Aug 24;17(1):55. doi:
+10.1186/s13024-022-00552-w. PMID: 36002854; PMCID: PMC9404585.
+
+93: Hurh K, Jeong SH, Kim SH, Jang SY, Park EC, Jang SI. Increased risk of all-
+cause, Alzheimer's, and vascular dementia in adults with migraine in Korea: a
+population-based cohort study. J Headache Pain. 2022 Aug 24;23(1):108. doi:
+10.1186/s10194-022-01484-y. PMID: 36002812; PMCID: PMC9404580.
+
+94: Singh A, Mhaske A, Shukla R. Fabrication of TPGS-Grafted Polyamidoamine
+Dendrimer for Enhanced Piperine Brain Delivery and Pharmacokinetics. AAPS
+PharmSciTech. 2022 Aug 24;23(7):236. doi: 10.1208/s12249-022-02393-8. PMID:
+36002713.
+
+95: Pérez-Millan A, Contador J, Tudela R, Niñerola-Baizán A, Setoain X, Lladó A,
+Sánchez-Valle R, Sala-Llonch R. Evaluating the performance of Bayesian and
+frequentist approaches for longitudinal modeling: application to Alzheimer's
+disease. Sci Rep. 2022 Aug 24;12(1):14448. doi: 10.1038/s41598-022-18129-4.
+PMID: 36002550; PMCID: PMC9402558.
+
+96: Shao S, Zhang X, Xu Q, Pan R, Chen Y. Emerging roles of Glucagon like
+peptide-1 in the management of autoimmune diseases and diabetes-associated
+comorbidities. Pharmacol Ther. 2022 Aug 21;239:108270. doi:
+10.1016/j.pharmthera.2022.108270. Epub ahead of print. PMID: 36002078.
+
+97: Pandey S, Shen K, Lee SH, Shen YA, Wang Y, Otero-García M, Kotova N, Vito
+ST, Laufer BI, Newton DF, Rezzonico MG, Hanson JE, Kaminker JS, Bohlen CJ, Yuen
+TJ, Friedman BA. Disease-associated oligodendrocyte responses across
+neurodegenerative diseases. Cell Rep. 2022 Aug 23;40(8):111189. doi:
+10.1016/j.celrep.2022.111189. PMID: 36001972.
+
+98: Shah D, Gsell W, Wahis J, Luckett ES, Jamoulle T, Vermaercke B, Preman P,
+Moechars D, Hendrickx V, Jaspers T, Craessaerts K, Horré K, Wolfs L, Fiers M,
+Holt M, Thal DR, Callaerts-Vegh Z, D'Hooge R, Vandenberghe R, Himmelreich U,
+Bonin V, De Strooper B. Astrocyte calcium dysfunction causes early network
+hyperactivity in Alzheimer's disease. Cell Rep. 2022 Aug 23;40(8):111280. doi:
+10.1016/j.celrep.2022.111280. PMID: 36001964; PMCID: PMC9433881.
+
+99: Prissette M, Fury W, Koss M, Racioppi C, Fedorova D, Dragileva E, Clarke G,
+Pohl T, Dugan J, Ahrens D, Chiu J, Hunt C, Siao CJ, Young T, Bhowmick A, Rogulin
+V, Desclaux M, Hayden EY, Podgorski M, Gao M, Macdonald LE, Frendewey D,
+Yancopoulos GD, Zambrowicz B. Disruption of nuclear envelope integrity as a
+possible initiating event in tauopathies. Cell Rep. 2022 Aug 23;40(8):111249.
+doi: 10.1016/j.celrep.2022.111249. PMID: 36001963.
+
+100: Mahoney-Sanchez L, Bouchaoui H, Boussaad I, Jonneaux A, Timmerman K,
+Berdeaux O, Ayton S, Krüger R, Duce JA, Devos D, Devedjian JC. Alpha synuclein
+determines ferroptosis sensitivity in dopaminergic neurons via modulation of
+ether-phospholipid membrane composition. Cell Rep. 2022 Aug 23;40(8):111231.
+doi: 10.1016/j.celrep.2022.111231. PMID: 36001957.
+
+101: Joshi H, Shah J, Abu-Hijleh FA, Patel V, Rathbone M, Gabriele S, Gabriele
+J, Baranowski D, Molloy D, Frey BN, Mishra RK. Decreased Expression of Cerebral
+Dopamine Neurotrophic Factor in Platelets of Probable Alzheimer Patients.
+Alzheimer Dis Assoc Disord. 2022 Jul-Sep 01;36(3):269-271. doi:
+10.1097/WAD.0000000000000488. Epub 2021 Dec 29. PMID: 36001766.
+
+102: Baik JS, Ko MH, Ko SH, Min JH, Choi JK, Baek JY, Kim TH, Jung NY, Jo Y, Lee
+TY, Shin YI. Assessment of Functional Near-infrared Spectroscopy by Comparing
+Prefrontal Cortex Activity: A Cognitive Impairment Screening Tool. Alzheimer Dis
+Assoc Disord. 2022 Jul-Sep 01;36(3):266-268. doi: 10.1097/WAD.0000000000000475.
+Epub 2021 Oct 26. PMID: 36001765.
+
+103: Kuzmik A, Boltz M, BeLue R, Galvin JE, Arendacs R, Resnick B. Factors
+Associated With Sleep Quality in Hospitalized Persons With Dementia. Alzheimer
+Dis Assoc Disord. 2022 Jul-Sep 01;36(3):253-258. doi:
+10.1097/WAD.0000000000000502. Epub 2022 Mar 25. PMID: 36001764; PMCID:
+PMC9426998.
+
+104: Zimmer ER, Pascoal TA, Rosa-Neto P, Nordberg A, Pellerin L. Comment on
+"Microglial activation states drive glucose uptake and FDG-PET alterations in
+neurodegenerative diseases". Sci Transl Med. 2022 Aug 24;14(659):eabm8302. doi:
+10.1126/scitranslmed.abm8302. Epub 2022 Aug 24. PMID: 36001681.
+
+105: Therriault J, Pascoal TA, Savard M, Mathotaarachchi S, Benedet AL, Chamoun
+M, Tissot C, Lussier FZ, Rahmouni N, Stevenson J, Qureshi MNI, Kang MS, Thomas
+É, Vitali P, Soucy JP, Massarweh G, Saha-Chaudhuri P, Gauthier S, Rosa-Neto P.
+Intrinsic connectivity of the human brain provides scaffold for tau aggregation
+in clinical variants of Alzheimer's disease. Sci Transl Med. 2022 Aug
+24;14(659):eabc8693. doi: 10.1126/scitranslmed.abc8693. Epub 2022 Aug 24. PMID:
+36001678.
+
+106: Favero F, Barberis E, Gagliardi M, Espinoza S, Contu L, Gustincich S,
+Boccafoschi F, Borsotti C, Lim D, Rubino V, Mignone F, Pasolli E, Manfredi M,
+Zucchelli S, Corà D, Corazzari M. A Metabologenomic approach reveals alterations
+in the gut microbiota of a mouse model of Alzheimer's disease. PLoS One. 2022
+Aug 24;17(8):e0273036. doi: 10.1371/journal.pone.0273036. PMID: 36001607; PMCID:
+PMC9401139.
+
+107: Acquarelli J, van Laarhoven T, Postma GJ, Jansen JJ, Rijpma A, van Asten S,
+Heerschap A, Buydens LMC, Marchiori E. Convolutional neural networks to predict
+brain tumor grades and Alzheimer's disease with MR spectroscopic imaging data.
+PLoS One. 2022 Aug 24;17(8):e0268881. doi: 10.1371/journal.pone.0268881. PMID:
+36001537; PMCID: PMC9401174.
+
+108: Sapkota D, Florian C, Doherty BM, White KM, Reardon KM, Ge X, Garbow JR,
+Yuede CM, Cirrito JR, Dougherty JD. Aqp4 stop codon readthrough facilitates
+amyloid-β clearance from the brain. Brain. 2022 Sep 14;145(9):2982-2990. doi:
+10.1093/brain/awac199. PMID: 36001414.
+
+109: Huggins B, Farris M. Vitamin D<sub>3</sub> promotes longevity in
+Caenorhabditis elegans. Geroscience. 2022 Aug 24. doi:
+10.1007/s11357-022-00637-w. Epub ahead of print. PMID: 36001277.
+
+110: Boitet M, Eun H, Lee T, Kim J, Grailhe R. Non-invasive In Vivo Brain
+Astrogenesis and Astrogliosis Quantification Using a Far-red E2-Crimson
+Transgenic Reporter Mouse. Mol Neurobiol. 2022 Nov;59(11):6740-6753. doi:
+10.1007/s12035-022-02997-y. Epub 2022 Aug 24. PMID: 36001234.
+
+111: Singh NA, Graff-Radford J, Machulda MM, Schwarz CG, Baker MC, Rademakers R,
+Ertekin-Taner N, Lowe VJ, Josephs KA, Whitwell JL. Atypical Alzheimer's disease
+phenotypes with normal or borderline PET biomarker profiles. J Neurol. 2022 Aug
+24. doi: 10.1007/s00415-022-11330-5. Epub ahead of print. PMID: 36001141.
+
+112: Brayne C, Wu YT. Population-Based Studies in Dementia and Ageing Research:
+A Local and National Experience in Cambridgeshire and the UK. Am J Alzheimers
+Dis Other Demen. 2022 Jan-Dec;37:15333175221104347. doi:
+10.1177/15333175221104347. PMID: 36000966.
+
+113: du Teil Espina M, Fu Y, van der Horst D, Hirschfeld C, López-Álvarez M,
+Mulder LM, Gscheider C, Haider Rubio A, Huitema M, Becher D, Heeringa P, van
+Dijl JM. Coating and Corruption of Human Neutrophils by Bacterial Outer Membrane
+Vesicles. Microbiol Spectr. 2022 Aug 24:e0075322. doi:
+10.1128/spectrum.00753-22. Epub ahead of print. PMID: 36000865.
+
+114: Cedres N, Aejmelaeus-Lindström A, Ekström I, Nordin S, Xin L, Persson J,
+Olofsson JK. Subjective impairments in olfaction and cognition predict
+dissociated behavioural outcomes. J Gerontol B Psychol Sci Soc Sci. 2022 Aug
+24:gbac124. doi: 10.1093/geronb/gbac124. Epub ahead of print. PMID: 36000774.
+
+115: Pedrini S, Doecke JD, Hone E, Wang P, Thota R, Bush AI, Rowe CC, Dore V,
+Villemagne VL, Ames D, Rainey-Smith S, Verdile G, Sohrabi HR, Raida MR, Taddei
+K, Gandy S, Masters CL, Chatterjee P, Martins RN; AIBL Research Group. Plasma
+high-density lipoprotein cargo is altered in Alzheimer's disease and is
+associated with regional brain volume. J Neurochem. 2022 Oct;163(1):53-67. doi:
+10.1111/jnc.15681. Epub 2022 Aug 24. PMID: 36000528.
+
+116: Lee S, Jo M, Kwon Y, Jeon YM, Kim S, Lee KJ, Kim HJ. PTK2 regulates tau-
+induced neurotoxicity via phosphorylation of p62 at Ser403. J Neurogenet. 2022
+Aug 24:1-10. doi: 10.1080/01677063.2022.2114471. Epub ahead of print. PMID:
+36000467.
+
+117: Xiao X, Xu T, Liu H, Liu X, Liao X, Zhou Y, Zhou L, Wang X, Zhu Y, Yang Q,
+Hao X, Liu Y, Jiang H, Guo J, Wang J, Tang B, Li J, Shen L, Jiao B. CYLD
+variants identified in Alzheimer's disease and frontotemporal dementia patients.
+Ann Clin Transl Neurol. 2022 Aug 24. doi: 10.1002/acn3.51655. Epub ahead of
+print. PMID: 36000313.
+
+118: Zhang Z, Li X, Zhou H, Zhou J. NG2-glia crosstalk with microglia in health
+and disease. CNS Neurosci Ther. 2022 Aug 23. doi: 10.1111/cns.13948. Epub ahead
+of print. PMID: 36000202.
+
+119: Vu M, Mangal R, Stead T, Lopez-Ortiz C, Ganti L. Impact of Alzheimer's
+Disease on Caregivers in the United States. Health Psychol Res. 2022 Aug
+20;10(3):37454. doi: 10.52965/001c.37454. PMID: 35999976; PMCID: PMC9392839.
+
+120: Medvedev AV. Assessment of Cognitive Reserve using Near Infrared
+Spectroscopy. J Anal Tech Res. 2022;4(2):89-101. Epub 2022 May 19. PMID:
+35999855; PMCID: PMC9394433.
+
+121: Fruekilde SK, Bailey CJ, Lambertsen KL, Clausen BH, Carlsen J, Xu NL,
+Drasbek KR, Gutiérrez-Jiménez E. Disturbed microcirculation and hyperaemic
+response in a murine model of systemic inflammation. J Cereb Blood Flow Metab.
+2022 Aug 23:271678X221112278. doi: 10.1177/0271678X221112278. Epub ahead of
+print. PMID: 35999817.
+
+122: Wood H. Reactive astrocyte biomarkers mirror Alzheimer disease pathology.
+Nat Rev Neurol. 2022 Oct;18(10):575. doi: 10.1038/s41582-022-00713-x. PMID:
+35999471.
+
+123: Zheng Q, Zhang Y, Li H, Tong X, Ouyang M. How segmentation methods affect
+hippocampal radiomic feature accuracy in Alzheimer's disease analysis? Eur
+Radiol. 2022 Oct;32(10):6965-6976. doi: 10.1007/s00330-022-09081-y. Epub 2022
+Aug 24. PMID: 35999372.
+
+124: Ahmad A, Uversky VN, Khan RH. Aberrant liquid-liquid phase separation and
+amyloid aggregation of proteins related to neurodegenerative diseases. Int J
+Biol Macromol. 2022 Aug 23;220:703-720. doi: 10.1016/j.ijbiomac.2022.08.132.
+Epub ahead of print. PMID: 35998851.
+
+125: Dominko K, Rastija A, Smiljanic K, Mladenovic A, Lešnjaković L, Kanazir S,
+Milanovic D, Hecimovic S. Amyloid-ß plaque formation and BACE1 accumulation in
+the brains of a 5xFAD Alzheimer's disease mouse model is associated with altered
+distribution and not proteolysis of BACE1 substrates Sez6 and Sez6L. Mech Ageing
+Dev. 2022 Oct;207:111726. doi: 10.1016/j.mad.2022.111726. Epub 2022 Aug 23.
+PMID: 35998821.
+
+126: Oliveira IS, Pucca MB, Ferreira IG, Cerni FA, Jacob BCDS, Wiezel GA,
+Pinheiro-Júnior EL, Cordeiro FA, Bordon KCF, Arantes EC. State-of-the-art review
+of snake venom phosphodiesterases (svPDEs). Toxicon. 2022 Oct 15;217:121-130.
+doi: 10.1016/j.toxicon.2022.08.004. Epub 2022 Aug 20. PMID: 35998712.
+
+127: Liu M, Zeng M, Wang S, Cao B, Guo P, Zhang Y, Jia J, Zhang Q, Zhang B, Wang
+R, Li J, Zheng X, Feng W. Thymidine and 2'-deoxyuridine reduce microglial
+activation and improve oxidative stress damage by modulating glycolytic
+metabolism on the Aβ<sub>25-35</sub>-induced brain injury. Arch Biochem Biophys.
+2022 Oct 30;729:109377. doi: 10.1016/j.abb.2022.109377. Epub 2022 Aug 20. PMID:
+35998686.
+
+128: Wang C, Zeng L, Li Y, Shi C, Peng Y, Pan R, Huang M, Wang S, Zhang J, Li H.
+Decabromodiphenyl ethane induces locomotion neurotoxicity and potential
+Alzheimer's disease risks through intensifying amyloid-beta deposition by
+inhibiting transthyretin/transthyretin-like proteins. Environ Int. 2022 Aug
+18;168:107482. doi: 10.1016/j.envint.2022.107482. Epub ahead of print. PMID:
+35998411.
+
+129: Mahmoudi E, Wu W, Najarian C, Aikens J, Bynum J, Vydiswaran VGV.
+Identifying Caregiver Availability Using Medical Notes With Rule-Based Natural
+Language Processing: Retrospective Cohort Study. JMIR Aging. 2022 Sep
+22;5(3):e40241. doi: 10.2196/40241. PMID: 35998328.
+
+130: Hernandez CM, Jackson NL, Hernandez AR, McMahon LL. Impairments in Fear
+Extinction Memory and Basolateral Amygdala Plasticity in the TgF344-AD Rat Model
+of Alzheimer's Disease Are Distinct from Nonpathological Aging. eNeuro. 2022 Jun
+27;9(3):ENEURO.0181-22.2022. doi: 10.1523/ENEURO.0181-22.2022. PMID: 35998297;
+PMCID: PMC9239848.
+
+131: Greven JA, Brett TJ. Production of Eukaryotic Glycoproteins for Structural
+and Functional Studies Using Expi293F Cells. Curr Protoc. 2022 Aug;2(8):e512.
+doi: 10.1002/cpz1.512. PMID: 35998009; PMCID: PMC9405080.
+
+132: Sedghizadeh MJ, Aghajan H, Vahabi Z, Fatemi SN, Afzal A. Network
+synchronization deficits caused by dementia and Alzheimer's disease serve as
+topographical biomarkers: a pilot study. Brain Struct Funct. 2022 Aug 23:1–13.
+doi: 10.1007/s00429-022-02554-2. Epub ahead of print. PMID: 35997832; PMCID:
+PMC9396580.
+
+133: Pei H, Zeng J, Chen W, He Z, Du R. Network pharmacology and molecular
+docking integrated strategy to investigate the pharmacological mechanism of
+palmatine in Alzheimer's disease. J Biochem Mol Toxicol. 2022 Aug 23:e23200.
+doi: 10.1002/jbt.23200. Epub ahead of print. PMID: 35997646.
+
+134: McSorley VE, Lamar M, Yu L, Bennett DA, Barnes LL, Boyle PA. Decision
+Making and Blood Sugar Indicators in Older African American Adults. J Aging
+Health. 2022 Aug 23:8982643221122639. doi: 10.1177/08982643221122639. Epub ahead
+of print. PMID: 35997533.
+
+135: Awasthi S, Spellman DS, Hatcher NG. Proteomic Discovery and Validation of
+Novel Fluid Biomarkers for Improved Patient Selection and Prediction of Clinical
+Outcomes in Alzheimer's Disease Patient Cohorts. Proteomes. 2022 Aug 1;10(3):26.
+doi: 10.3390/proteomes10030026. PMID: 35997438; PMCID: PMC9397030.
+
+136: Hopfner F, Tietz AK, Ruf VC, Ross OA, Koga S, Dickson D, Aguzzi A, Attems
+J, Beach T, Beller A, Cheshire WP, van Deerlin V, Desplats P, Deuschl G,
+Duyckaerts C, Ellinghaus D, Evsyukov V, Flanagan ME, Franke A, Frosch MP,
+Gearing M, Gelpi E, van Gerpen JA, Ghetti B, Glass JD, Grinberg LT, Halliday G,
+Helbig I, Höllerhage M, Huitinga I, Irwin DJ, Keene DC, Kovacs GG, Lee EB, Levin
+J, Martí MJ, Mackenzie I, McKeith I, Mclean C, Mollenhauer B, Neumann M, Newell
+KL, Pantelyat A, Pendziwiat M, Peters A, Molina Porcel L, Rabano A, Matěj R,
+Rajput A, Rajput A, Reimann R, Scott WK, Seeley W, Selvackadunco S, Simuni T,
+Stadelmann C, Svenningsson P, Thomas A, Trenkwalder C, Troakes C, Trojanowski
+JQ, Uitti RJ, White CL, Wszolek ZK, Xie T, Ximelis T, Yebenes J; Alzheimer's
+Disease Genetics Consortium, Müller U, Schellenberg GD, Herms J, Kuhlenbäumer G,
+Höglinger G. Common Variants Near ZIC1 and ZIC4 in Autopsy-Confirmed Multiple
+System Atrophy. Mov Disord. 2022 Aug 23. doi: 10.1002/mds.29164. Epub ahead of
+print. PMID: 35997131.
+
+137: Khasawinah S. A Bipartisan Lifeline for Alzheimer's: Relationships that are
+Good for the Heart. Public Policy Aging Rep. 2022 May 10;32(2):77-79. doi:
+10.1093/ppar/prac007. PMID: 35996431; PMCID: PMC9383994.
+
+138: Huang C, Wen X, Xie H, Hu D, Li K. Identification and Experimental
+Validation of Marker Genes between Diabetes and Alzheimer's Disease. Oxid Med
+Cell Longev. 2022 Aug 12;2022:8122532. doi: 10.1155/2022/8122532. PMID:
+35996379; PMCID: PMC9391608.
+
+139: Duarte JMN. Serine racemase modulation for improving brain insulin
+resistance: An Editorial Highlight for "Deletion of serine racemase reverses
+neuronal insulin signaling inhibition by amyloid-β oligomers": An Editorial
+Highlight for "Deletion of serine racemase reverses neuronal insulin signaling
+inhibition by amyloid-β oligomers". J Neurochem. 2022 Oct;163(1):6-7. doi:
+10.1111/jnc.15688. Epub 2022 Aug 22. PMID: 35996309.
+
+140: Vattoth S, Mariya S. Practical microscopic neuroanatomy of the limbic
+system and basal forebrain identifiable on clinical 3T MRI. Neuroradiol J. 2022
+Aug 22:19714009221122250. doi: 10.1177/19714009221122250. Epub ahead of print.
+PMID: 35996275.
+
+141: Kobayashi R, Hayashi H, Kawakatsu S, Shibuya Y, Morioka D, Ohba M, Yoshioka
+M, Sakamoto K, Kanoto M, Otani K. Comparing Medial Temporal Atrophy Between
+Early-Onset Semantic Dementia and Early-Onset Alzheimer's Disease Using Voxel-
+Based Morphometry: A Multicenter MRI Study. Curr Alzheimer Res. 2022 Aug 20.
+doi: 10.2174/1567205019666220820145429. Epub ahead of print. PMID: 35996258.
+
+142: Alosco ML, Tripodis Y, Baucom ZH, Adler CH, Balcer LJ, Bernick C, Mariani
+ML, Au R, Banks SJ, Barr WB, Wethe JV, Cantu RC, Coleman MJ, Dodick DW, McClean
+MD, McKee AC, Mez J, Palmisano JN, Martin B, Hartlage K, Lin AP, Koerte IK,
+Cummings JL, Reiman EM, Stern RA, Shenton ME, Bouix S; DIAGNOSE CTE Research
+Project. White matter hyperintensities in former American football players.
+Alzheimers Dement. 2022 Aug 22. doi: 10.1002/alz.12779. Epub ahead of print.
+PMID: 35996231.
+
+143: Umar T, Meena R, Mustehasan, Kumar P, Khan AA. Recent updates in the
+development of small molecules as potential clinical candidates for Alzheimer's
+disease: A review. Chem Biol Drug Des. 2022 Aug 22. doi: 10.1111/cbdd.14133.
+Epub ahead of print. PMID: 35996229.
+
+144: Coon DW, Gómez-Morales A. Modifiable Risk Factors for Brain Health and
+Dementia and Opportunities for Intervention: A Brief Review. Clin Gerontol. 2022
+Aug 22:1-12. doi: 10.1080/07317115.2022.2114396. Epub ahead of print. PMID:
+35996225.
+
+145: Zhang Y, Gao X, Bai X, Yao S, Chang YZ, Gao G. The emerging role of furin
+in neurodegenerative and neuropsychiatric diseases. Transl Neurodegener. 2022
+Aug 23;11(1):39. doi: 10.1186/s40035-022-00313-1. PMID: 35996194; PMCID:
+PMC9395820.
+
+146: Thomas KR, Weigand AJ, Edwards LC, Edmonds EC, Bangen KJ, Ortiz G, Walker
+KS, Bondi MW; Alzheimer’s Disease Neuroimaging Initiative. Tau levels are higher
+in objective subtle cognitive decline but not subjective memory complaint.
+Alzheimers Res Ther. 2022 Aug 22;14(1):114. doi: 10.1186/s13195-022-01060-1.
+PMID: 35996158; PMCID: PMC9394026.
+
+147: Zhu X, Wei Y, He Y, He R, Li J. Urine D-ribose levels correlate with
+cognitive function in community-dwelling older adults. BMC Geriatr. 2022 Aug
+22;22(1):693. doi: 10.1186/s12877-022-03288-w. PMID: 35996093; PMCID:
+PMC9396817.
+
+148: Aljezawi M, Al Qadire M, Suliman M, Al Omari O, Khalaf A. Undergraduate
+nursing students' knowledge of and attitudes toward people with alzheimer's
+disease. BMC Geriatr. 2022 Aug 22;22(1):691. doi: 10.1186/s12877-022-03389-6.
+PMID: 35996080; PMCID: PMC9394018.
+
+149: Tyler SEB, Tyler LDK. Therapeutic roles of plants for 15 hypothesised
+causal bases of Alzheimer's disease. Nat Prod Bioprospect. 2022 Aug 23;12(1):34.
+doi: 10.1007/s13659-022-00354-z. PMID: 35996065; PMCID: PMC9395556.
+
+150: Alzheimer's disease-implicated protein tau puts the squeeze on
+microtubules. Nat Chem Biol. 2022 Aug 22. doi: 10.1038/s41589-022-01097-1. Epub
+ahead of print. PMID: 35996002.
+
+151: Hong YJ, Kim CM, Lee JH, Sepulcre J. Correlations between APOE4 allele and
+regional amyloid and tau burdens in cognitively normal older individuals. Sci
+Rep. 2022 Aug 22;12(1):14307. doi: 10.1038/s41598-022-18325-2. PMID: 35995824;
+PMCID: PMC9395408.
+
+152: Xie YX, Naseri NN, Fels J, Kharel P, Na Y, Lane D, Burré J, Sharma M.
+Lysosomal exocytosis releases pathogenic α-synuclein species from neurons in
+synucleinopathy models. Nat Commun. 2022 Aug 22;13(1):4918. doi:
+10.1038/s41467-022-32625-1. PMID: 35995799; PMCID: PMC9395532.
+
+153: Linari I, Juantorena GE, Ibáñez A, Petroni A, Kamienkowski JE. Unveiling
+Trail Making Test: visual and manual trajectories indexing multiple executive
+processes. Sci Rep. 2022 Aug 22;12(1):14265. doi: 10.1038/s41598-022-16431-9.
+PMID: 35995786; PMCID: PMC9395513.
+
+154: Billette OV, Ziegler G, Aruci M, Schütze H, Kizilirmak JM, Richter A,
+Altenstein S, Bartels C, Brosseron F, Cardenas-Blanco A, Dahmen P, Dechent P,
+Dobisch L, Fliessbach K, Freiesleben SD, Glanz W, Göerß D, Haynes JD, Heneka MT,
+Kilimann I, Kimmich O, Kleineidam L, Laske C, Lohse A, Rostamzadeh A, Metzger C,
+Munk MH, Peters O, Preis L, Priller J, Scheffler K, Schneider A, Spottke A,
+Spruth EJ, Ramirez A, Röske S, Roy N, Teipel S, Wagner M, Wiltfang J,
+Wolfsgruber S, Yakupov R, Zeidman P, Jessen F, Schott BH, Düzel E, Maass A;
+DELCODE Study Group. Novelty-Related fMRI Responses of Precuneus and Medial
+Temporal Regions in Individuals at Risk for Alzheimer Disease. Neurology. 2022
+Aug 23;99(8):e775-e788. doi: 10.1212/WNL.0000000000200667. Epub 2022 Jun 3.
+PMID: 35995589; PMCID: PMC9484732.
+
+155: Halbgebauer S, Steinacker P, Hengge S, Oeckl P, Abu Rumeileh S, Anderl-
+Straub S, Lombardi J, Von Arnim CAF, Giese A, Ludolph AC, Otto M. CSF levels of
+SNAP-25 are increased early in Creutzfeldt-Jakob and Alzheimer's disease. J
+Neurol Neurosurg Psychiatry. 2022 Aug 22:jnnp-2021-328646. doi:
+10.1136/jnnp-2021-328646. Epub ahead of print. PMID: 35995553.
+
+156: Velander P, Wu L, Hildreth SB, Vogelaar NJ, Mukhopadhyay B, Helm RF, Zhang
+S, Xu B. Catechol-containing compounds are a broad class of protein aggregation
+inhibitors: Redox state is a key determinant of the inhibitory activities.
+Pharmacol Res. 2022 Aug 20;184:106409. doi: 10.1016/j.phrs.2022.106409. Epub
+ahead of print. PMID: 35995346.
+
+157: Fourest-Lieuvin A, Vinit A, Blot B, Perrot A, Denarier E, Saudou F, Arnal
+I. Controlled Tau Cleavage in Cells Reveals Abnormal Localizations of Tau
+Fragments. Neuroscience. 2022 Aug 19:S0306-4522(22)00435-3. doi:
+10.1016/j.neuroscience.2022.08.016. Epub ahead of print. PMID: 35995336.
+
+158: Li TR, Liu FQ. β-Amyloid promotes platelet activation and activated
+platelets act as bridge between risk factors and Alzheimer's disease. Mech
+Ageing Dev. 2022 Oct;207:111725. doi: 10.1016/j.mad.2022.111725. Epub 2022 Aug
+19. PMID: 35995275.
+
+159: Dong LX, Bao HL, Zhang YY, Liu Y, Zhang GW, An FM. Retraction Notice to
+"MicroRNA-16-5p/BTG2 axis affects neurological function, autophagy and apoptosis
+of hippocampal neurons in Alzheimer's disease" [Brain Res. Bull. 175 (2021)
+254-62]. Brain Res Bull. 2022 Oct 15;189:4. doi:
+10.1016/j.brainresbull.2022.08.011. Epub 2022 Aug 19. PMID: 35994984.
+
+160: Limone A, Veneruso I, D'Argenio V, Sarnataro D. Endosomal trafficking and
+related genetic underpinnings as a hub in Alzheimer's disease. J Cell Physiol.
+2022 Aug 22. doi: 10.1002/jcp.30864. Epub ahead of print. PMID: 35994714.
+
+161: Raichlen DA, Klimentidis YC, Sayre MK, Bharadwaj PK, Lai MHC, Wilcox RR,
+Alexander GE. Leisure-time sedentary behaviors are differentially associated
+with all-cause dementia regardless of engagement in physical activity. Proc Natl
+Acad Sci U S A. 2022 Aug 30;119(35):e2206931119. doi: 10.1073/pnas.2206931119.
+Epub 2022 Aug 22. PMID: 35994664; PMCID: PMC9436362.
+
+162: Ryu JR, Ahuja S, Arnold CR, Potts KG, Mishra A, Yang Q, Sargurupremraj M,
+Mahoney DJ, Seshadri S, Debette S, Childs SJ. Stroke-associated intergenic
+variants modulate a human FOXF2 transcriptional enhancer. Proc Natl Acad Sci U S
+A. 2022 Aug 30;119(35):e2121333119. doi: 10.1073/pnas.2121333119. Epub 2022 Aug
+22. PMID: 35994645; PMCID: PMC9436329.
+
+163: Liampas I, Siokas V, Kyrozis A, Sakoutis G, Yannakoulia M, Kosmidis MH,
+Sakka P, Sakkas GK, Giannaki CD, Stefanidis I, Scarmeas N, Dardiotis E,
+Hadjigeorgiou GM. Prevalence and Determinants of Restless Legs Syndrome (Willis-
+Ekbom Disease) in an Older Greek Population. Behav Sleep Med. 2022 Aug 22:1-13.
+doi: 10.1080/15402002.2022.2112194. Epub ahead of print. PMID: 35994615.
+
+164: Rizzi L, Cardoso Magalhães TN, Lecce N, Dos Santos Moraes A, Fernandes
+Casseb R, Vieira Ligo Teixeira C, Machado de Campos B, Junqueira Ribeiro de
+Rezende T, Leme Talib L, Forlenza OV, Cendes F, Balthazar MLF. Cholinesterase
+Inhibitors Response Might Be Related to Right Hippocampal Functional
+Connectivity in Mild Alzheimer's Disease. Brain Connect. 2022 Sep 15. doi:
+10.1089/brain.2022.0026. Epub ahead of print. PMID: 35994390.
+
+165: Matsui T, Yamashita KI. Static and Dynamic Functional Connectivity
+Alterations in Alzheimer's Disease and Neuropsychiatric Diseases. Brain Connect.
+2022 Sep 15. doi: 10.1089/brain.2022.0044. Epub ahead of print. PMID: 35994384.
+
+166: Alves LB, Castillo-Ordoñez WO, Giuliatti S. Virtual screening and molecular
+dynamics study of natural products against Rab10 for the treatment of
+Alzheimer's disease. J Biomol Struct Dyn. 2022 Aug 22:1-21. doi:
+10.1080/07391102.2022.2112079. Epub ahead of print. PMID: 35994325.
+
+167: Ozlen H, Pichet Binette A, Köbe T, Meyer PF, Gonneaud J, St-Onge F, Provost
+K, Soucy JP, Rosa-Neto P, Breitner J, Poirier J, Villeneuve S; Alzheimer’s
+Disease Neuroimaging Initiative, the Harvard Aging Brain Study, the
+Presymptomatic Evaluation of Experimental or Novel Treatments for Alzheimer
+Disease Research Group. Spatial Extent of Amyloid-β Levels and Associations With
+Tau-PET and Cognition. JAMA Neurol. 2022 Aug 22:e222442. doi:
+10.1001/jamaneurol.2022.2442. Epub ahead of print. PMID: 35994280; PMCID:
+PMC9396472.
+
+168: Jensen JH, Voltin J, Nie X, Dhiman S, McKinnon ET, Falangola MF. Comparison
+of two types of microscopic diffusion anisotropy in mouse brain. NMR Biomed.
+2022 Aug 22:e4816. doi: 10.1002/nbm.4816. Epub ahead of print. PMID: 35994169.
+
+169: Wang E, Duarte ML, Rothman LE, Cai D, Zhang B. Non-coding RNAs and
+Alzheimer's disease: perspectives from omics studies. Hum Mol Genet. 2022 Aug
+22:ddac202. doi: 10.1093/hmg/ddac202. Epub ahead of print. PMID: 35994042.
+
+170: Mew M, Caldwell KA, Caldwell GA. From bugs to bedside: functional
+annotation of human genetic variation for neurological disorders using
+invertebrate models. Hum Mol Genet. 2022 Aug 22:ddac203. doi:
+10.1093/hmg/ddac203. Epub ahead of print. PMID: 35994032.
+
+171: Gupta A, Ellis SD, Burkhardt C, Young K, Mazzotti DR, Mahnken J, Abu-El-Rub
+N, Chandaka S, Comfort B, Shanks D, Woodward J, Unrein A, Anderson H, Loucks J,
+Song X, Waitman LR, Burns JM. Implementing a home-based virtual hypertension
+programme-a pilot feasibility study. Fam Pract. 2022 Aug 22:cmac084. doi:
+10.1093/fampra/cmac084. Epub ahead of print. PMID: 35994031.
+
+172: Zeng Z, Fichou Y, Vigers M, Tsay K, Han S. Illuminating the Structural
+Basis of Tau Aggregation by Intramolecular Distance Tracking: A Perspective on
+Methods. J Phys Chem B. 2022 Sep 1;126(34):6384-6395. doi:
+10.1021/acs.jpcb.2c02022. Epub 2022 Aug 22. PMID: 35994024.
+
+173: Liu Y, Xiang Q. miR-369-5p Positively Modulates Plasticity-Related Proteins
+in Hippocampal Cultures and in a Mouse Model of Alzheimer's Disease. Crit Rev
+Eukaryot Gene Expr. 2022;32(5):11-20. doi:
+10.1615/CritRevEukaryotGeneExpr.2021041435. PMID: 35993941.
+
+174: Li K, Zeng Q, Luo X, Qi S, Xu X, Fu Z, Hong L, Liu X, Li Z, Fu Y, Chen Y,
+Liu Z, Calhoun VD, Huang P, Zhang M. Neuropsychiatric symptoms associated
+multimodal brain networks in Alzheimer's disease. Hum Brain Mapp. 2022 Aug 22.
+doi: 10.1002/hbm.26051. Epub ahead of print. PMID: 35993678.
+
+175: Lalonde R, Strazielle C. Cocoa Flavanols and the Aging Brain. Curr Aging
+Sci. 2022 Aug 19. doi: 10.2174/1874609815666220819145845. Epub ahead of print.
+PMID: 35993474.
+
+176: Guo W, Wang H, Kumar Tharkeshwar A, Couthouis J, Braems E, Masrori P, Van
+Schoor E, Fan Y, Ahuja K, Moisse M, Jacquemyn M, Furtado Madeiro da Costa R,
+Gajjar M, Balusu S, Tricot T, Fumagalli L, Hersmus N, Janky R, Impens F, Vanden
+Berghe P, Ho R, Thal DR, Vandenberghe R, Hegde ML, Chandran S, De Strooper B,
+Daelemans D, Van Damme P, Van Den Bosch L, Verfaillie C. CRISPR/Cas9 screen in
+human iPSC-derived cortical neurons identifies NEK6 as a novel disease modifier
+of C9orf72 poly(PR) toxicity. Alzheimers Dement. 2022 Aug 22. doi:
+10.1002/alz.12760. Epub ahead of print. PMID: 35993441.
+
+177: Volkmar N, Gawden-Bone CM, Williamson JC, Nixon-Abell J, West JA, St
+George-Hyslop PH, Kaser A, Lehner PJ. Regulation of membrane fluidity by
+RNF145-triggered degradation of the lipid hydrolase ADIPOR2. EMBO J. 2022 Aug
+22:e110777. doi: 10.15252/embj.2022110777. Epub ahead of print. PMID: 35993436.
+
+178: Mewton L, Visontay R, Hoy N, Lipnicki DM, Sunderland M, Lipton RB, Guerchet
+M, Ritchie K, Najar J, Scarmeas N, Kim KW, Riedel Heller S, van Boxtel M,
+Jacobsen E, Brodaty H, Anstey KJ, Haan M, Scazufca M, Lobo E, Sachdev PS;
+Collaborators from the Cohort Studies of Memory in an International Consortium
+(COSMIC). The relationship between alcohol use and dementia in adults aged more
+than 60 years: a combined analysis of prospective, individual-participant data
+from 15 international studies. Addiction. 2022 Aug 22. doi: 10.1111/add.16035.
+Epub ahead of print. PMID: 35993434.
+
+179: Prikas E, Paric E, Asih PR, Stefanoska K, Stefen H, Fath T, Poljak A,
+Ittner A. Tau target identification reveals NSF-dependent effects on AMPA
+receptor trafficking and memory formation. EMBO J. 2022 Sep 15;41(18):e10242.
+doi: 10.15252/embj.2021110242. Epub 2022 Aug 22. PMID: 35993331; PMCID:
+PMC9475529.
+
+180: Lyu X, Yang XY, Zhou ZK. [Neural oscillation and its application in
+mechanistic study of neuropsychiatric disorders]. Sheng Li Xue Bao. 2022 Aug
+25;74(4):657-668. Chinese. PMID: 35993217.
+
+181: Kumar R, Bhatnagar V, Jain A, Singh M, Kareem ZH, Sugumar R. CNN-Based
+Cross-Modal Residual Network for Image Synthesis. Biomed Res Int. 2022 Aug
+10;2022:6399730. doi: 10.1155/2022/6399730. PMID: 35993059; PMCID: PMC9385350.
+
+182: La Barbera L, Mauri E, D'Amelio M, Gori M. Functionalization strategies of
+polymeric nanoparticles for drug delivery in Alzheimer's disease: Current trends
+and future perspectives. Front Neurosci. 2022 Aug 4;16:939855. doi:
+10.3389/fnins.2022.939855. PMID: 35992936; PMCID: PMC9387393.
+
+183: Hao X, Ding N, Zhang Y, Yang Y, Zhao Y, Zhao J, Li Y, Li Z. Benign
+regulation of the gut microbiota: The possible mechanism through which the
+beneficial effects of manual acupuncture on cognitive ability and intestinal
+mucosal barrier function occur in APP/PS1 mice. Front Neurosci. 2022 Aug
+3;16:960026. doi: 10.3389/fnins.2022.960026. PMID: 35992924; PMCID: PMC9382294.
+
+184: Chen Z, Wu M, Lai Q, Zhou W, Wen X, Yin X. Epigenetic regulation of
+synaptic disorder in Alzheimer's disease. Front Neurosci. 2022 Aug 3;16:888014.
+doi: 10.3389/fnins.2022.888014. PMID: 35992921; PMCID: PMC9382295.
+
+185: Wang X, Wang D, Li X, Wang W, Gao P, Lou B, Pfeuffer J, Zhang X, Zhu J, Li
+C, Chen M. A diagnostic index based on pseudo-continuous arterial spin labeling
+and T1-mapping improves efficacy in discriminating Alzheimer's disease from
+normal cognition. Front Neurosci. 2022 Aug 5;16:974651. doi:
+10.3389/fnins.2022.974651. PMID: 35992919; PMCID: PMC9389211.
+
+186: Hwangbo S, Kim YJ, Park YH, Kim HJ, Na DL, Jang H, Seo SW. Relationships
+between educational attainment, hypertension, and amyloid negative subcortical
+vascular dementia: The brain-battering hypothesis. Front Neurosci. 2022 Aug
+5;16:934149. doi: 10.3389/fnins.2022.934149. PMID: 35992915; PMCID: PMC9388911.
+
+187: Oh SJ, Lee N, Nam KR, Kang KJ, Han SJ, Lee KC, Lee YJ, Choi JY. Amyloid
+pathology induces dysfunction of systemic neurotransmission in aged APPswe/PS2
+mice. Front Neurosci. 2022 Aug 5;16:930613. doi: 10.3389/fnins.2022.930613.
+PMID: 35992913; PMCID: PMC9389227.
+
+188: Uchida Y, Kan H, Sakurai K, Oishi K, Matsukawa N. Quantitative
+susceptibility mapping as an imaging biomarker for Alzheimer's disease: The
+expectations and limitations. Front Neurosci. 2022 Aug 5;16:938092. doi:
+10.3389/fnins.2022.938092. PMID: 35992906; PMCID: PMC9389285.
+
+189: Bouça-Machado R, Fernandes A, Ranzato C, Beneby D, Nzwalo H, Ferreira JJ.
+Measurement tools to assess activities of daily living in patients with
+Parkinson's disease: A systematic review. Front Neurosci. 2022 Jul 20;16:945398.
+doi: 10.3389/fnins.2022.945398. PMID: 35992900; PMCID: PMC9386643.
+
+190: Braun DJ, Weekman EM, Gordon MN, Späni CB. Editorial: Modulation of
+neuroimmune systems to preserve brain function in aging and dementia. Front
+Neurosci. 2022 Aug 3;16:995409. doi: 10.3389/fnins.2022.995409. PMID: 35992899;
+PMCID: PMC9382828.
+
+191: Zhang R, Zhang L, Li Z, Zhang P, Song H, Yao DA, Cao J, Zhang JJ. Green tea
+improves cognitive function through reducing AD-pathology and improving anti-
+oxidative stress capacity in Chinese middle-aged and elderly people. Front Aging
+Neurosci. 2022 Aug 5;14:919766. doi: 10.3389/fnagi.2022.919766. PMID: 35992609;
+PMCID: PMC9389233.
+
+192: Monteverdi A, Palesi F, Costa A, Vitali P, Pichiecchio A, Cotta Ramusino M,
+Bernini S, Jirsa V, Gandini Wheeler-Kingshott CAM, D'Angelo E. Subject-specific
+features of excitation/inhibition profiles in neurodegenerative diseases. Front
+Aging Neurosci. 2022 Aug 5;14:868342. doi: 10.3389/fnagi.2022.868342. PMID:
+35992607; PMCID: PMC9391060.
+
+193: Ganne A, Balasubramaniam M, Ayyadevara S, Shmookler Reis RJ. Machine-
+learning analysis of intrinsically disordered proteins identifies key factors
+that contribute to neurodegeneration-related aggregation. Front Aging Neurosci.
+2022 Aug 3;14:938117. doi: 10.3389/fnagi.2022.938117. PMID: 35992603; PMCID:
+PMC9382113.
+
+194: Gong X, Zhang H, Liu X, Liu Y, Liu J, Fapohunda FO, Lü P, Wang K, Tang M.
+Is liquid biopsy mature enough for the diagnosis of Alzheimer's disease? Front
+Aging Neurosci. 2022 Aug 5;14:977999. doi: 10.3389/fnagi.2022.977999. PMID:
+35992602; PMCID: PMC9389010.
+
+195: Song X, Sun Y, Wang Z, Su Y, Wang Y, Wang X. Exendin-4 alleviates β-Amyloid
+peptide toxicity <i>via</i> DAF-16 in a <i>Caenorhabditis elegans</i> model of
+Alzheimer's disease. Front Aging Neurosci. 2022 Aug 5;14:955113. doi:
+10.3389/fnagi.2022.955113. PMID: 35992601; PMCID: PMC9389237.
+
+196: Zhang K, Wang C, Yuan JL, Deng Y. Editorial: Peripheral immune system and
+neurodegenerative disease. Front Aging Neurosci. 2022 Aug 5;14:970042. doi:
+10.3389/fnagi.2022.970042. PMID: 35992600; PMCID: PMC9389356.
+
+197: Singh P, Paramanik V. Neuromodulating roles of estrogen and phytoestrogens
+in cognitive therapeutics through epigenetic modifications during aging. Front
+Aging Neurosci. 2022 Aug 3;14:945076. doi: 10.3389/fnagi.2022.945076. PMID:
+35992599; PMCID: PMC9381870.
+
+198: Feng M, Hou T, Zhou M, Cen Q, Yi T, Bai J, Zeng Y, Liu Q, Zhang C, Zhang Y.
+Gut microbiota may be involved in Alzheimer's disease pathology by dysregulating
+pyrimidine metabolism in APP/PS1 mice. Front Aging Neurosci. 2022 Aug
+3;14:967747. doi: 10.3389/fnagi.2022.967747. PMID: 35992591; PMCID: PMC9382084.
+
+199: Chen CY, Lin YS, Lee WJ, Liao YC, Kuo YS, Yang AC, Fuh JL. Endophenotypic
+effects of the <i>SORL1</i> variant rs2298813 on regional brain volume in
+patients with late-onset Alzheimer's disease. Front Aging Neurosci. 2022 Aug
+5;14:885090. doi: 10.3389/fnagi.2022.885090. PMID: 35992588; PMCID: PMC9389408.
+
+200: Chun MY, Park CJ, Kim J, Jeong JH, Jang H, Kim K, Seo SW. Prediction of
+conversion to dementia using interpretable machine learning in patients with
+amnestic mild cognitive impairment. Front Aging Neurosci. 2022 Aug 5;14:898940.
+doi: 10.3389/fnagi.2022.898940. PMID: 35992586; PMCID: PMC9389270.
