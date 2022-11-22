@@ -1,0 +1,1331 @@
+﻿{
+	"@context": "http://www.w3.org/ns/csvw",
+	"dialect": {
+		"header": true,
+		"headerRowCount": 1,
+		"delimiter": "\t"
+	},
+	"tables": [
+		{
+			"url": "FORMDSUBMISSION.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": "ACCESSIONNUMBER",
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "FILE_NUM",
+						"titles": [
+							"FILE NUM"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "File number provided by the Commission."
+					},
+					{
+						"name": "FILING_DATE",
+						"titles": [
+							"FILING DATE"
+						],
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date filed with the Commission."
+					},
+					{
+						"name": "SIC_CODE",
+						"titles": [
+							"SIC CODE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 4
+						},
+						"dc:description": "Standard Industrial Classification Codes. These codes are also used as a basis for assigning review responsibility for the company's filings."
+					},
+					{
+						"name": "SUBMISSIONTYPE",
+						"titles": [
+							"SUBMISSION TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Submission type."
+					},
+					{
+						"name": "OVER100PERSONSFLAG",
+						"titles": [
+							"OVER100PERSONSFLAG"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Yes, if over 100 persons."
+					},
+					{
+						"name": "OVER100ISSUERFLAG",
+						"titles": [
+							"OVER 100 ISSUER FLAG"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Yes, if over 100 issuers."
+					}
+
+				]
+			}
+		},
+		{
+			"url": "ISSUERS.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": [
+					"ACCESSIONNUMBER",
+					"ISSUER_SEQ_KEY"
+				],
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "IS_PRIMARYISSUER_FLAG",
+						"titles": [
+							"IS PRIMARY ISSUER FLAG"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 3
+						},
+						"dc:description": "Yes, if primary issuer; if not then No."
+					},
+					{
+						"name": "ISSUER_SEQ_KEY",
+						"titles": [
+							"ISSUER SEQ KEY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 38
+						},
+						"dc:description": "Issuer Index Key."
+					},
+					{
+						"name": "CIK",
+						"titles": [
+							"CIK"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Central index key (CIK) of issuer submitting the filing."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of Issuer"
+					},
+					{
+						"name": "STREET1",
+						"titles": [
+							"STREET 1"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Street Address 1."
+					},
+					{
+						"name": "STREET2",
+						"titles": [
+							"STREET 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Street Address 2."
+					},
+					{
+						"name": "CITY",
+						"titles": [
+							"CITY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "City."
+					},
+					{
+						"name": "STATEORCOUNTRY",
+						"titles": [
+							"STATE OR COUNTRY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "State/Province/Country."
+					},
+					{
+						"name": "STATEORCOUNTRYDESCRIPTION",
+						"titles": [
+							"STATE OR COUNTRY DESCRIPTION"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Full name of the State or Country."
+					},
+					{
+						"name": "ZIPCODE",
+						"titles": [
+							"ZIP CODE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Zip/Postal Code."
+					},
+					{
+						"name": "ISSUERPHONENUMBER",
+						"titles": [
+							"ISSUER PHONE NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Phone No. of Issuer."
+					},
+					{
+						"name": "JURISDICTIONOFINC",
+						"titles": [
+							"JURISDICTION OF INC"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Jurisdiction of Incorporation/Organization."
+					},
+					{
+						"name": "ISSUER_PREVIOUSNAME_1",
+						"titles": [
+							"ISSUER PREVIOUS NAME 1"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Issuer Previous Name 1."
+					},
+					{
+						"name": "ISSUER_PREVIOUSNAME_2",
+						"titles": [
+							"ISSUER PREVIOUS NAME 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Issuer Previous Name 2"
+					},
+					{
+						"name": "ISSUER_PREVIOUSNAME_3",
+						"titles": [
+							"ISSUER PREVIOUS NAME 3"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Issuer Previous Name 3."
+					},
+					{
+						"name": "EDGAR_PREVIOUSNAME_1",
+						"titles": [
+							"EDGAR PREVIOUS NAME 1"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "EDGAR Previous Name 1"
+					},
+					{
+						"name": "EDGAR_PREVIOUSNAME_2",
+						"titles": [
+							"EDGAR PREVIOUS NAME 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "EDGAR Previous Name 2"
+					},
+					{
+						"name": "EDGAR_PREVIOUSNAME_3",
+						"titles": [
+							"EDGAR PREVIOUS NAME 3"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "EDGAR Previous Name 3"
+					},
+					{
+						"name": "ENTITYTYPE",
+						"titles": [
+							"ENTITY TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Entity type."
+					},
+					{
+						"name": "ENTITYTYPEOTHERDESC",
+						"titles": [
+							"ENTITY TYPE OTHER DESC"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Description of Entity Type when indicated as 'Other' in EntityType."
+					},
+					{
+						"name": "YEAROFINC_TIMESPAN_CHOICE",
+						"titles": [
+							"YEAR OF INC TIMESPAN CHOICE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Year of incorporation/organization (Specify year)."
+					},
+					{
+						"name": "YEAROFINCALUE_ENTERED",
+						"titles": [
+							"YEAROFINCALUE_ENTERED"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 4
+						},
+						"dc:description": "Year of Incorporation value entered."
+					}
+
+				]
+			}
+		},
+		{
+			"url": "OFFERING.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": [
+					"ACCESSIONNUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "INDUSTRYGROUPTYPE",
+						"titles": [
+							"INDUSTRY GROUP TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Type of Industry."
+					},
+					{
+						"name": "INVESTMENTFUNDTYPE",
+						"titles": [
+							"INVESTMENT FUND TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Types of Security Offered."
+					},
+					{
+						"name": "IS40ACT",
+						"titles": [
+							"IS40ACT"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Flag to indicate whether the issuer registered as an investment
+company under the Investment Company Act of 1940."
+					},
+					{
+						"name": "REVENUERANGE",
+						"titles": [
+							"REVENUE RANGE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Revenue Range."
+					},
+					{
+						"name": "AGGREGATENETASSETVALUERANGE",
+						"titles": [
+							"AGGREGATENETASSET VALUE RANGE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Aggregate Net Asset Value Range."
+					},
+					{
+						"name": "FEDERALEXEMPTIONS_ITEMS_LIST",
+						"titles": [
+							"FEDERALEXEMPTIONS ITEMS LIST"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1000
+						},
+						"dc:description": "List of exemptions under Securities Act."
+					},
+					{
+						"name": "ISAMENDMENT",
+						"titles": [
+							"IS AMENDMENT"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "New Notice/Amendment."
+					},
+					{
+						"name": "PREVIOUSACCESSIONNUMBER",
+						"titles": [
+							"PREVIOUS ACCESSION NUMBER"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Previous Accession Number; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "SALE_DATE",
+						"titles": [
+							"SALE DATE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Sale date"
+					},
+					{
+						"name": "YETTOOCCUR",
+						"titles": [
+							"YETTOOCCUR"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "First Sale Yet to Occur"
+					},
+					{
+						"name": "MORETHANONEYEAR",
+						"titles": [
+							"MORE THAN ONE YEAR"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Duration of offering more than one year"
+					},
+					{
+						"name": "ISEQUITYTYPE",
+						"titles": [
+							"IS EQUITY TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Equity"
+					},
+					{
+						"name": "ISDEBTTYPE",
+						"titles": [
+							"IS DEBT TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Debt"
+					},
+					{
+						"name": "ISOPTIONTOACQUIRETYPE",
+						"titles": [
+							"IS OPTION TOACQUIRE TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Option, Warrant or Other Right to Acquire Another Security"
+					},
+					{
+						"name": "ISSECURITYTOBEACQUIREDTYPE",
+						"titles": [
+							"IS SECURITY TOBEACQUIRED TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Security to be Acquired Upon Exercise of Option, Warrant or Other Right to Acquire Security"
+					},
+					{
+						"name": "ISPOOLEDINVESTMENTFUNDTYPE",
+						"titles": [
+							"IS POOLED INVESTMENT FUND TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Pooled Investment Fund Interests"
+					},
+					{
+						"name": "ISTENANTINCOMMONTYPE",
+						"titles": [
+							"IS TENANT IN COMMON TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Tenant-in-Common Securities"
+					},
+					{
+						"name": "ISMINERALPROPERTYTYPE",
+						"titles": [
+							"IS MINERAL PROPERTY TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Mineral Property Securities"
+					},
+					{
+						"name": "ISOTHERTYPE",
+						"titles": [
+							"IS OTHER TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Other (describe)"
+					},
+					{
+						"name": "DESCRIPTIONOFOTHERTYPE",
+						"titles": [
+							"DESCRIPTION OF OTHER TYPE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Description of Pooled Investment Type when 'OtherType' is indicated 'TRUE'."
+					},
+					{
+						"name": "ISBUSINESSCOMBINATIONTRANS",
+						"titles": [
+							"IS BUSINESS COMBINATION TRANS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Is this offering being made in connection with a business combination transaction, such as a merger, acquisition, or exchange offer?"
+					},
+					{
+						"name": "BUSCOMBCLARIFICATIONOFRESP",
+						"titles": [
+							"BUSCOMB CLARIFICATION OFRESP"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Clarification of Response (if Necessary). "
+					},
+					{
+						"name": "MINIMUMINVESTMENTACCEPTED",
+						"titles": [
+							"MINIMUMINVESTMENT ACCEPTED"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 19
+						},
+						"dc:description": "Minimum investment accepted from any outside investor"
+					},
+					{
+						"name": "OVER100RECIPIENTFLAG",
+						"titles": [
+							"OVER 100 RECIPIENT FLAG"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Over 100 Recipients"
+					},
+					{
+						"name": "TOTALOFFERINGAMOUNT",
+						"titles": [
+							"TOTAL OFFERING AMOUNT"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 12
+						},
+						"dc:description": "Total offering amount."
+					},
+					{
+						"name": "TOTALAMOUNTSOLD",
+						"titles": [
+							"TOTAL AMOUNT SOLD"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 12
+						},
+						"dc:description": "Total amount sold."
+					},
+					{
+						"name": "TOTALREMAINING",
+						"titles": [
+							"TOTAL REMAINING"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 12
+						},
+						"dc:description": "Total remaining to be sold."
+					},
+					{
+						"name": "SALESAMTCLARIFICATIONOFRESP",
+						"titles": [
+							"SALES AMT CLARIFICATION OFRESP"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Clarification of Response (if Necessary)."
+					},
+					{
+						"name": "HASNONACCREDITEDINVESTORS",
+						"titles": [
+							"HAS NONACCREDITED INVESTORS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Select if securities in the offering have been or may be sold to persons who do not qualify as accredited investors."
+					},
+					{
+						"name": "NUMBERNONACCREDITEDINVESTORS",
+						"titles": [
+							"NUMBER NONACCREDITED INVESTORS"
+						],
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 19
+						},
+						"dc:description": "Number of such non-accredited investors who already have invested in the offering."
+					},
+					{
+						"name": "TOTALNUMBERALREADYINVESTED",
+						"titles": [
+							"TOTAL NUMBER ALREADYINVESTED"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 19
+						},
+						"dc:description": "Regardless of whether securities in the offering have been or may be sold to persons who do not qualify as accredited investors, enter the total number of investors who already have invested in the offering."
+					},
+					{
+						"name": "SALESCOMM_DOLLARAMOUNT",
+						"titles": [
+							"SALES COMM DOLLAR AMOUNT"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 12
+						},
+						"dc:description": "Sales Commissions, USD."
+					},
+					{
+						"name": "SALESCOMM_ISESTIMATE",
+						"titles": [
+							"SALES COMM IS ESTIMATE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Estimate."
+					},
+					{
+						"name": "FINDERSFEE_DOLLARAMOUNT",
+						"titles": [
+							"FINDERSFEE DOLLARAMOUNT"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 12
+						},
+						"dc:description": "Finders' Fee USD."
+					},
+					{
+						"name": "FINDERSFEE_ISESTIMATE",
+						"titles": [
+							"FINDERSFEE IS ESTIMATE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Estimate."
+					},
+					{
+						"name": "FINDERFEECLARIFICATIONOFRESP",
+						"titles": [
+							"FINDER FEE CLARIFICATION OF RESP"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Clarification of Response (if Necessary)."
+					},
+					{
+						"name": "GROSSPROCEEDSUSED_DOLLARAMOUNT",
+						"titles": [
+							"GROSS PROCEEDSUSED DOLLAR AMOUNT"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 12
+						},
+						"dc:description": "Provide the amount of the gross proceeds of the offering that has been or is proposed to be used for payments to any of the persons required to be named as executive officers, or promoters in response to Item 3 above. If the amount is unknown, provide an estimate and check the box next to the amount. USD"
+					},
+					{
+						"name": "GROSSPROCEEDSUSED_ISESTIMATE",
+						"titles": [
+							"GROSS PROCEEDSUSED IS ESTIMATE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Estimate."
+					},
+					{
+						"name": "GROSSPROCEEDSUSED_CLAROFRESP",
+						"titles": [
+							"GROSS PROCEEDSUSED CLAROFRESP"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Clarification of Response (if Necessary)."
+					},
+					{
+						"name": "AUTHORIZEDREPRESENTATIVE",
+						"titles": [
+							"AUTHORIZED REPRESENTATIVE"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "I also am a duly authorized representative of the other Issuer(s) in Item 1 above and authorized to sign on their behalf."
+					}
+				]
+			}
+		},
+		{
+			"url": "RECIPIENTS.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": [
+					"ACCESSIONNUMBER",
+					"RECIPIENT_SEQ_KEY"
+				],
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "RECIPIENT_SEQ_KEY",
+						"titles": [
+							"RECIPIENT SEQ KEY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 38
+						},
+						"dc:description": "Recipient Index Key."
+					},
+					{
+						"name": "RECIPIENTNAME",
+						"titles": [
+							"RECIPIENT NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Recipient"
+					},
+					{
+						"name": "RECIPIENTCRDNUMBER",
+						"titles": [
+							"RECIPIENT CRD NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 9
+						},
+						"dc:description": "Recipient CRD Number"
+					},
+					{
+						"name": "ASSOCIATEDBDNAME",
+						"titles": [
+							"ASSOCIATEDBD NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "(Associated) Broker or Dealer"
+					},
+					{
+						"name": "ASSOCIATEDBDCRDNUMBER",
+						"titles": [
+							"ASSOCIATED BDCRD NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 9
+						},
+						"dc:description": "(Associated) Broker or Dealer CRD Number"
+					},
+					{
+						"name": "STREET1",
+						"titles": [
+							"STREET 1"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "STREET 1"
+					},
+					{
+						"name": "STREET2",
+						"titles": [
+							"STREET 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "STREET 2"
+					},						 
+					{
+						"name": "CITY",
+						"titles": [
+							"CITY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "city"
+					},
+					{
+						"name": "STATEORCOUNTRY",
+						"titles": [
+							"STATE OR COUNTRY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "State/Province/Country"
+					},
+					{
+						"name": "STATEORCOUNTRYDESCRIPTION",
+						"titles": [
+							"STATE OR COUNTRY DESCRIPTION"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Full name of country or state."
+					},
+					{
+						"name": "ZIPCODE",
+						"titles": [
+							"ZIP CODE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Zip/Postal Code"
+					},
+					{
+						"name": "STATES_ORALUE_LIST",
+						"titles": [
+							"STATES OR VALUE LIST"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1000
+						},
+						"dc:description": "List of States or Countries of Recipients."
+
+					},
+					{
+						"name": "DESCRIPTIONS_LIST",
+						"titles": [
+							"DESCRIPTIONS LIST"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1000
+						},
+						"dc:description": "Full name of States or Countries of Recipients."
+					},
+					{
+						"name": "FOREIGNSOLICITATION",
+						"titles": [
+							"FOREIGN SOLICITATION"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Selected if the recipient has solicited sales in foreign countries."
+					}
+				]
+			}
+		},
+		{
+			"url": "RELATEDPERSONS.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": [
+					"ACCESSIONNUMBER",
+					"RELATEDPERSON_SEQ_KEY"
+				],
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "RELATEDPERSON_SEQ_KEY",
+						"titles": [
+							"RELATEDPERSON SEQ KEY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 38
+						},
+						"dc:description": "Related Persons Index Key."
+					},
+					{
+						"name": "FIRSTNAME",
+						"titles": [
+							"FIRST NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "First Name."
+					},
+					{
+						"name": "MIDDLENAME",
+						"titles": [
+							"MIDDLE NAME"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Middle Name."
+					},
+					{
+						"name": "LASTNAME",
+						"titles": [
+							"LAST NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Last Name."
+					},
+					{
+						"name": "STREET1",
+						"titles": [
+							"STREET1"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Street Address 1"
+					},
+					{
+						"name": "STREET2",
+						"titles": [
+							"STREET2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Street Address 2"
+					},
+					{
+						"name": "CITY",
+						"titles": [
+							"CITY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "city"
+					},
+					{
+						"name": "STATEORCOUNTRY",
+						"titles": [
+							"STATE OR COUNTRY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "State/Province/Country"
+					},
+					{
+						"name": "STATEORCOUNTRYDESCRIPTION",
+						"titles": [
+							"STATE OR COUNTRY DESCRIPTION"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Full name of the country or state"
+					},
+					{
+						"name": "ZIPCODE",
+						"titles": [
+							"ZIP CODE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Zip/Postal Code"
+					},
+					{
+						"name": "RELATIONSHIP_1",
+						"titles": [
+							"RELATIONSHIP 1"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Relationship of related person to issuer consisting of Executive Officer, Director, or Promoter."
+					},
+					{
+						"name": "RELATIONSHIP_2",
+						"titles": [
+							"RELATIONSHIP 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Relationship of related person to issuer consisting of Executive Officer, Director, or Promoter."
+
+					},
+					{
+						"name": "RELATIONSHIP_3",
+						"titles": [
+							"RELATIONSHIP 3"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Relationship of related person to issuer consisting of Executive Officer, Director, or Promoter."
+
+					},
+					{
+						"name": "RELATIONSHIPCLARIFICATION",
+						"titles": [
+							"RELATIONSHIP CLARIFICATION"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Clarification of Response (if Necessary)."
+					}
+				]
+			}
+		},
+		{
+			"url": "SIGNATURES.tsv",
+			"tableSchema": {
+				"aboutUrl": "FormD_readme.html",
+				"primaryKey": [
+					"ACCESSIONNUMBER",
+					"SIGNATURE_SEQ_KEY"
+				],
+				"columns": [
+					{
+						"name": "ACCESSIONNUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "; The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "SIGNATURE_SEQ_KEY",
+						"titles": [
+							"SIGNATURE SEQ KEY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"maxLength": 38
+						},
+						"dc:description": "Signature index key."
+					},
+					{
+						"name": "ISSUERNAME",
+						"titles": [
+							"ISSUER NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of Issuer."
+					},
+					{
+						"name": "SIGNATURENAME",
+						"titles": [
+							"SIGNATURE NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "Name of Signature."
+					},
+					{
+						"name": "NAMEOFSIGNER",
+						"titles": [
+							"NAME OF SIGNER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Full name of person signing the form."
+					},
+					{
+						"name": "SIGNATURETITLE",
+						"titles": [
+							"SIGNATURE TITLE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 60
+						},
+						"dc:description": "Title of person signing the form."
+					},
+					{
+						"name": "SIGNATUREDATE",
+						"titles": [
+							"SIGNATURE DATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Date of signature."
+					}
+				]
+			}
+		},
+
+	]
+}
