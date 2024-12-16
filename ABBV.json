@@ -1,0 +1,127 @@
+{ 
+    "name": "AbbVie",
+    "symbol": "ABBV",
+    "type": "stock",
+    "price": 100.00,
+    "drugs": [
+        {
+            "name": "Humira",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Venclexta",
+            "mechanism": "BCL2 inhibitor",
+            "indication": "CLL",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            },
+            "economics": "Roche partnership"
+        },
+        {
+            "name": "Rinvoq",
+            "mechanism": "JAK inhibitor",
+            "indication": "RA",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Skyrizi",
+            "mechanism": "IL-23 inhibitor",
+            "indication": "Psoriasis",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Mavyret",
+            "mechanism": "NS5A inhibitor",
+            "indication": "Hepatitis C",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Botox",
+            "mechanism": "Botulinum toxin",
+            "indication": "Aesthetic",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Imbruvica",
+            "mechanism": "BTK inhibitor",
+            "indication": "CLL",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Lupron",
+            "mechanism": "GnRH-a agonist",
+            "indication": "Prostate cancer",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Synthroid",
+            "mechanism": "Thyroid hormone",
+            "indication": "Hypothyroidism",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Creon",
+            "mechanism": "Pancreatic enzyme",
+            "indication": "Chronic pancreatitis",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Restasis",
+            "mechanism": "",
+            "indication": "Dry eye",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        },
+        {
+            "name": "Duodopa",
+            "mechanism": "L-DOPA",
+            "indication": "Parkinson's disease",
+            "revenue": {
+                "2023": 1000000000,
+                "2022": 900000000,
+                "2021": 800000000
+            }
+        }
+    ]
+}
