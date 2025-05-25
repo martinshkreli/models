@@ -1,0 +1,11 @@
+name: base
+channels:
+  - 'https://repo.continuum.io/pkgs/free'
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas==2.2.3
+  - numpy==2.2.1
+  - requests==2.32.3
+  - joblib==1.4.2
+  - jupyterlab

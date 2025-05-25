@@ -1,0 +1,14 @@
+services:
+  miniconda3:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+      args:
+        - PASSW=${PASSW}
+    container_name: models-miniconda3
+    volumes:
+      - ${TICKERS_PATH}:/usr/src/miniconda3/tickers
+      - ${WORKING_PATH}:/usr/src/miniconda3/working
+    ports:
+      - '8889:8889/tcp'
+      - '2299:2299'
